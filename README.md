@@ -33,5 +33,11 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 * **YouTube channel:** [https://www.youtube.com/@vikramlingam]
 
 ### 📰 My Latest Blog Posts
-<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [I Tried GPT-4o: The Secret Delusions Causing Harm](https://pub.towardsai.net/i-tried-gpt-4o-the-secret-delusions-causing-harm-845383bee597?source=rss-6c104cc85316------2)
+- [I Tried Amazon Bedrock: 5x Faster Fine-Tuning Truth](https://blog.stackademic.com/i-tried-amazon-bedrock-5x-faster-fine-tuning-truth-21bd7db94089?source=rss-6c104cc85316------2)
+- [Why Language Models Are Quietly Revolutionizing Our World](https://ai.plainenglish.io/why-language-models-are-quietly-revolutionizing-our-world-2198bb64dacc?source=rss-6c104cc85316------2)
+- [Secret Stats: Reward Signals Boost RL Policies 100x](https://pub.towardsai.net/secret-stats-reward-signals-boost-rl-policies-100x-eebe623a5ceb?source=rss-6c104cc85316------2)
+- [I Tried Q-Learning: 80% Failures Revealed the Truth](https://pub.towardsai.net/i-tried-q-learning-80-failures-revealed-the-truth-fd2291033301?source=rss-6c104cc85316------2)
+<!-- BLOG-POST-LIST:END -->
 
