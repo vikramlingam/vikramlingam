@@ -22,15 +22,11 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 * **[Moolya Veda] (https://moolyaveda.in/)**: A financial analysis application I built.
 * **Shinkansen Hackathon Winner**: My team (with Arun & Karthik) won the Shinkansen travel experience hackathon (Sept 2025).
 
-### 📫 How to Reach Me
+### 🌎 Find Me Around the Web
 * **LinkedIn:** [https://www.linkedin.com/in/vikramlingam/]
 * **Medium:** [https://medium.com/@vikramlingam]
 * **YouTube:** [https://www.youtube.com/@vikramlingam]
 * **Portfolio:** [https://www.vikramlingam.com]
-
-### ⚡ I'm Active On
-* **Medium blog:** [https://medium.com/@vikramlingam]
-* **YouTube channel:** [https://www.youtube.com/@vikramlingam]
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
