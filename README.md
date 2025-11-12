@@ -30,10 +30,10 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Means in ML Models: 50x Slower Than Expected](https://medium.com/@vikramlingam/the-numbers-paint-a-clear-picture-afd3ae5c599d?source=rss-6c104cc85316------2)
-- [Why Transformers Need 175B Params: The Data Truth](https://medium.com/@vikramlingam/the-numbers-paint-a-clear-picture-6266eb7adefc?source=rss-6c104cc85316------2)
+- [I Tried Means in ML Models: 50x Slower Than Expected](https://medium.com/data-science-collective/the-numbers-paint-a-clear-picture-afd3ae5c599d?source=rss-6c104cc85316------2)
+- [Why Transformers Need 175B Params: The Data Truth](https://medium.com/activated-thinker/the-numbers-paint-a-clear-picture-6266eb7adefc?source=rss-6c104cc85316------2)
 - [Master artificial neurons to build neural networks and supercharge your machine learning skills.](https://medium.com/@vikramlingam/master-artificial-neurons-to-build-neural-networks-and-supercharge-your-machine-learning-skills-eeb0e6878b2f?source=rss-6c104cc85316------2)
-- [The Secret Behind 260M Euro Pyramid Collapse in Spain](https://medium.com/@vikramlingam/the-secret-behind-260m-euro-pyramid-collapse-in-spain-434410238c2e?source=rss-6c104cc85316------2)
-- [5 Secrets to Mastering Gaussian Processes in ML](https://medium.com/@vikramlingam/5-secrets-to-mastering-gaussian-processes-in-ml-ca0280ec040f?source=rss-6c104cc85316------2)
+- [The Secret Behind 260M Euro Pyramid Collapse in Spain](https://ai.plainenglish.io/the-secret-behind-260m-euro-pyramid-collapse-in-spain-434410238c2e?source=rss-6c104cc85316------2)
+- [5 Secrets to Mastering Gaussian Processes in ML](https://pub.towardsai.net/5-secrets-to-mastering-gaussian-processes-in-ml-ca0280ec040f?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
 
