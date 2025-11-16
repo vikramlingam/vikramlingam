@@ -30,7 +30,7 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [80% of Banks Risk Data Breaches with Generative AI: The Truth](https://medium.com/@vikramlingam/80-of-banks-risk-data-breaches-with-generative-ai-the-truth-13862d7a89da?source=rss-6c104cc85316------2)
+- [80% of Banks Risk Data Breaches with Generative AI: The Truth](https://medium.datadriveninvestor.com/80-of-banks-risk-data-breaches-with-generative-ai-the-truth-13862d7a89da?source=rss-6c104cc85316------2)
 - [Why Google Owns 92% Search Market Share Exposed](https://blog.stackademic.com/why-google-owns-92-search-market-share-exposed-5f431ee5b1e6?source=rss-6c104cc85316------2)
 - [I Tried Reinforcement Learning: Gained 300% Efficiency Boost](https://medium.com/activated-thinker/i-tried-reinforcement-learning-gained-300-efficiency-boost-ca851c40b782?source=rss-6c104cc85316------2)
 - [I Tried 7 Time Series Analysis Tools — Game Changers](https://ai.plainenglish.io/i-tried-7-time-series-analysis-tools-game-changers-6774f9a9105b?source=rss-6c104cc85316------2)
