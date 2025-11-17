@@ -30,10 +30,10 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Domain Adaptation Boosts Robotics 80% Faster](https://blog.stackademic.com/why-domain-adaptation-boosts-robotics-80-faster-c8167730e9e1?source=rss-6c104cc85316------2)
+- [I Tried Fine-Tuning GPT-3: It Cost Me A Bomb in 48 Hours](https://ai.plainenglish.io/i-tried-fine-tuning-gpt-3-it-cost-me-5k-in-48-hours-4ca188d533dc?source=rss-6c104cc85316------2)
 - [The Secret: GenAI Processes 50TB Data for Superior CX in FS](https://medium.datadriveninvestor.com/the-secret-genai-processes-50tb-data-for-superior-cx-in-fs-c5cf5dc03534?source=rss-6c104cc85316------2)
 - [I Tried Analyzing: Pro Traders Short Bitcoin After 6-Month Low](https://medium.com/coinmonks/i-tried-analyzing-pro-traders-short-bitcoin-after-6-month-low-646da4d1ee60?source=rss-6c104cc85316------2)
 - [80% of Banks Risk Data Breaches with Generative AI: The Truth](https://medium.datadriveninvestor.com/80-of-banks-risk-data-breaches-with-generative-ai-the-truth-13862d7a89da?source=rss-6c104cc85316------2)
-- [Why Google Owns 92% Search Market Share Exposed](https://blog.stackademic.com/why-google-owns-92-search-market-share-exposed-5f431ee5b1e6?source=rss-6c104cc85316------2)
-- [I Tried Reinforcement Learning: Gained 300% Efficiency Boost](https://medium.com/activated-thinker/i-tried-reinforcement-learning-gained-300-efficiency-boost-ca851c40b782?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
 
