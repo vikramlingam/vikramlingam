@@ -30,10 +30,10 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Multi-Agent AI: 300% Boost in Cooperative Tasks](https://medium.com/@vikramlingam/i-tried-multi-agent-ai-300-boost-in-cooperative-tasks-7bc1bdab3e23?source=rss-6c104cc85316------2)
+- [Why Deep RL Needs 1000x More Data Than You Think](https://pub.towardsai.net/why-deep-rl-needs-1000x-more-data-than-you-think-d3c366f32532?source=rss-6c104cc85316------2)
+- [Transformers Pack 175B Parameters: Why AI Explodes in Power](https://medium.com/@vikramlingam/transformers-pack-175b-parameters-why-ai-explodes-in-power-fab972d0a385?source=rss-6c104cc85316------2)
+- [I Tried Multi-Agent AI: 300% Boost in Cooperative Tasks](https://ai.plainenglish.io/i-tried-multi-agent-ai-300-boost-in-cooperative-tasks-7bc1bdab3e23?source=rss-6c104cc85316------2)
 - [Why Domain Adaptation Boosts Robotics 80% Faster](https://blog.stackademic.com/why-domain-adaptation-boosts-robotics-80-faster-c8167730e9e1?source=rss-6c104cc85316------2)
 - [I Tried Fine-Tuning GPT-3: It Cost Me A Bomb in 48 Hours](https://ai.plainenglish.io/i-tried-fine-tuning-gpt-3-it-cost-me-5k-in-48-hours-4ca188d533dc?source=rss-6c104cc85316------2)
-- [The Secret: GenAI Processes 50TB Data for Superior CX in FS](https://medium.datadriveninvestor.com/the-secret-genai-processes-50tb-data-for-superior-cx-in-fs-c5cf5dc03534?source=rss-6c104cc85316------2)
-- [I Tried Analyzing: Pro Traders Short Bitcoin After 6-Month Low](https://medium.com/coinmonks/i-tried-analyzing-pro-traders-short-bitcoin-after-6-month-low-646da4d1ee60?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
 
