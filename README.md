@@ -33,7 +33,7 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 - [ChatGPT’s 175B Params: Why It Scores 90% on USMLE](https://blog.stackademic.com/chatgpts-175b-params-why-it-scores-90-on-usmle-f679f47e04ce?source=rss-6c104cc85316------2)
 - [Why RKHS Fixes Covariate Shift in Humanitarian Data Management](https://medium.com/design-bootcamp/why-rkhs-fixes-covariate-shift-in-humanitarian-data-management-84d814717a23?source=rss-6c104cc85316------2)
 - [LLMs Train on 10TB Data: Why It Dwarfs Human Brains](https://ai.plainenglish.io/llms-train-on-10tb-data-why-it-dwarfs-human-brains-129764043099?source=rss-6c104cc85316------2)
-- [Why Deep RL Needs 1000x More Data Than You Think](https://pub.towardsai.net/why-deep-rl-needs-1000x-more-data-than-you-think-d3c366f32532?source=rss-6c104cc85316------2)
+- [Why Deep RL Needs 1000x More Data Than You Think](https://ai.plainenglish.io/why-deep-rl-needs-1000x-more-data-than-you-think-d3c366f32532?source=rss-6c104cc85316------2)
 - [Transformers Pack 175B Parameters: Why AI Explodes in Power](https://medium.com/activated-thinker/transformers-pack-175b-parameters-why-ai-explodes-in-power-fab972d0a385?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
 
