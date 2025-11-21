@@ -30,10 +30,10 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Rewards Drive Reinforcement Learning Success](https://medium.com/@vikramlingam/why-rewards-drive-reinforcement-learning-success-5b9dcdfc9082?source=rss-6c104cc85316------2)
+- [The Truth: NLP Models Use 500kWh Per Training Run](https://medium.com/data-science-collective/the-truth-nlp-models-use-500kwh-per-training-run-548d721c0ec9?source=rss-6c104cc85316------2)
+- [Why Rewards Drive Reinforcement Learning Success](https://medium.com/activated-thinker/why-rewards-drive-reinforcement-learning-success-5b9dcdfc9082?source=rss-6c104cc85316------2)
 - [1T Parameters in Top LLMs: The Secret to Smarter AI](https://blog.stackademic.com/1t-parameters-in-top-llms-the-secret-to-smarter-ai-0680284f7803?source=rss-6c104cc85316------2)
 - [Why 80% of Projects Fail Without Risk Certification](https://ai.plainenglish.io/why-80-of-projects-fail-without-risk-certification-78e858ec3a37?source=rss-6c104cc85316------2)
 - [AI in Finance: 50% Cost Cuts via Machine Learning](https://pub.towardsai.net/ai-in-finance-50-cost-cuts-via-machine-learning-1b166fc95e07?source=rss-6c104cc85316------2)
-- [ChatGPT’s 175B Params: Why It Scores 90% on USMLE](https://blog.stackademic.com/chatgpts-175b-params-why-it-scores-90-on-usmle-f679f47e04ce?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
 
