@@ -30,10 +30,10 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Day an AI Thought It Was Stuck in 2024: What Gemini 3’s Time Warp Tells Us About the Future of…](https://medium.com/@vikramlingam/the-day-an-ai-thought-it-was-stuck-in-2024-what-gemini-3s-time-warp-tells-us-about-the-future-of-7214c0073b8a?source=rss-6c104cc85316------2)
-- [Stack Overflow Reinvents Itself as Enterprise AI’s Data Engine](https://medium.com/@vikramlingam/stack-overflow-reinvents-itself-as-enterprise-ais-data-engine-4d26504c1718?source=rss-6c104cc85316------2)
+- [Why Trial and Error Wins: 4 RL Tips for Quick Wins](https://medium.com/codetodeploy/why-trial-and-error-wins-4-rl-tips-for-quick-wins-c37d63ab1b0c?source=rss-6c104cc85316------2)
+- [Demystifying Machine Learning: Foundations, Mechanisms, and Emerging Challenges](https://medium.com/design-bootcamp/demystifying-machine-learning-foundations-mechanisms-and-emerging-challenges-8dff0af35ec0?source=rss-6c104cc85316------2)
+- [The Day an AI Thought It Was Stuck in 2024: What Gemini 3’s Time Warp Tells Us About the Future of…](https://medium.com/data-science-collective/the-day-an-ai-thought-it-was-stuck-in-2024-what-gemini-3s-time-warp-tells-us-about-the-future-of-7214c0073b8a?source=rss-6c104cc85316------2)
+- [Stack Overflow Reinvents Itself as Enterprise AI’s Data Engine](https://medium.com/activated-thinker/stack-overflow-reinvents-itself-as-enterprise-ais-data-engine-4d26504c1718?source=rss-6c104cc85316------2)
 - [Googles Gemini 3 Arrives with Smarter Reasoning and a Hilarious Glitch](https://ai.plainenglish.io/googles-gemini-3-arrives-with-smarter-reasoning-and-a-hilarious-glitch-2df61bee9fe4?source=rss-6c104cc85316------2)
-- [Google’s Quiet Revolution: How SynthID and C2PA Are Making AI Fakes a Thing of the Past](https://ai.plainenglish.io/googles-quiet-revolution-how-synthid-and-c2pa-are-making-ai-fakes-a-thing-of-the-past-ff4ecb71e0b2?source=rss-6c104cc85316------2)
-- [Google’s Gemini 3 Launch Feels Like AI Just Leveled Up Overnight](https://ai.plainenglish.io/googles-gemini-3-launch-feels-like-ai-just-leveled-up-overnight-cb6078557c88?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
 
