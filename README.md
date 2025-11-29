@@ -30,10 +30,10 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Event Sensors Quietly Fixing Data Overload in Tech](https://medium.com/@vikramlingam/event-sensors-quietly-fixing-data-overload-in-tech-424a0c60c307?source=rss-6c104cc85316------2)
+- [Healthcare AI Startups Dominate 2025 Funding Wave](https://medium.com/@vikramlingam/healthcare-ai-startups-dominate-2025-funding-wave-c42646ab222b?source=rss-6c104cc85316------2)
 - [I Tried Visual Arithmetic on VLMs: Shocking 90% Wins](https://ai.plainenglish.io/i-tried-visual-arithmetic-on-vlms-shocking-90-wins-5c28bc1f0873?source=rss-6c104cc85316------2)
 - [The LLM Hype Train Is Braking Hard Right Now](https://medium.com/data-science-collective/the-llm-hype-train-is-braking-hard-right-now-012e773eafb8?source=rss-6c104cc85316------2)
 - [Why Trial and Error Wins: 4 RL Tips for Quick Wins](https://medium.com/codetodeploy/why-trial-and-error-wins-4-rl-tips-for-quick-wins-c37d63ab1b0c?source=rss-6c104cc85316------2)
-- [Demystifying Machine Learning: Foundations, Mechanisms, and Emerging Challenges](https://medium.com/design-bootcamp/demystifying-machine-learning-foundations-mechanisms-and-emerging-challenges-8dff0af35ec0?source=rss-6c104cc85316------2)
-- [The Day an AI Thought It Was Stuck in 2024: What Gemini 3’s Time Warp Tells Us About the Future of…](https://medium.com/data-science-collective/the-day-an-ai-thought-it-was-stuck-in-2024-what-gemini-3s-time-warp-tells-us-about-the-future-of-7214c0073b8a?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
 
