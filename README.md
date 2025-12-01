@@ -15,7 +15,7 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 🛠️ My Tech Stack & Interests
 * **Languages:** Python, SQL
-* **Libraries & Models:** CatBoost, Scikit-learn, Pandas, Numpy, Transformers, PyTorch
+* **Libraries & Models:** CatBoost, Scikit-learn, Pandas, Numpy, Transformers, PyTorch, OpenCV, Manim
 * **Interests:** Generative AI, LLMs, FinTech, TTS, AI-powered applications
 
 ### 🏆 My Projects & Achievements
