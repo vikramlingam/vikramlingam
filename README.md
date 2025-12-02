@@ -30,10 +30,10 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hold Forever Investors Quietly Rescuing Zombie Startups from Oblivion](https://medium.com/@vikramlingam/hold-forever-investors-quietly-rescuing-zombie-startups-from-oblivion-ae7fc4df9bb6?source=rss-6c104cc85316------2)
-- [Why On-Device AI Like Fara-7B Could End the Cloud Dominance Era](https://medium.com/@vikramlingam/why-on-device-ai-like-fara-7b-could-end-the-cloud-dominance-era-4b27788e93cb?source=rss-6c104cc85316------2)
+- [OpenAI Hits Code Red While Google Closes the Gap Fast](https://blog.stackademic.com/openai-hits-code-red-while-google-closes-the-gap-fast-2006b6749f06?source=rss-6c104cc85316------2)
+- [Why Data Labeling Just Became AI’s Hottest Billion Dollar Bet](https://medium.com/data-science-collective/why-data-labeling-just-became-ais-hottest-billion-dollar-bet-9c5fd237aa4c?source=rss-6c104cc85316------2)
+- [Hold Forever Investors Quietly Rescuing Zombie Startups from Oblivion](https://medium.datadriveninvestor.com/hold-forever-investors-quietly-rescuing-zombie-startups-from-oblivion-ae7fc4df9bb6?source=rss-6c104cc85316------2)
+- [Why On-Device AI Like Fara-7B Could End the Cloud Dominance Era](https://ai.plainenglish.io/why-on-device-ai-like-fara-7b-could-end-the-cloud-dominance-era-4b27788e93cb?source=rss-6c104cc85316------2)
 - [AI Startups Are Raising Billions in 2025 and Heres Why It Feels Different](https://medium.com/design-bootcamp/ai-startups-are-raising-billions-in-2025-and-heres-why-it-feels-different-74b3b9d448b1?source=rss-6c104cc85316------2)
-- [Microsofts Tiny AI Agent Outsmarts GPT-4o on Your Laptop](https://medium.com/design-bootcamp/microsofts-tiny-ai-agent-outsmarts-gpt-4o-on-your-laptop-2c766cb9e746?source=rss-6c104cc85316------2)
-- [Event Sensors Quietly Fixing Data Overload in Tech](https://blog.stackademic.com/event-sensors-quietly-fixing-data-overload-in-tech-424a0c60c307?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
 
