@@ -30,10 +30,10 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Reinforcement Learning Environments Are Redefining Data Science Workflows](https://medium.com/@vikramlingam/why-reinforcement-learning-environments-are-redefining-data-science-workflows-3e7dbdea0dc1?source=rss-6c104cc85316------2)
 - [OpenAI Sounds the Alarm as Google Closes In on AI Dominance](https://medium.com/@vikramlingam/openai-sounds-the-alarm-as-google-closes-in-on-ai-dominance-4fafc52f8009?source=rss-6c104cc85316------2)
 - [Mistral’s Tiny AI Models Are Quietly Reshaping the Future of Robotics](https://ai.plainenglish.io/mistrals-tiny-ai-models-are-quietly-reshaping-the-future-of-robotics-e1bf38e1dc71?source=rss-6c104cc85316------2)
 - [Data Science Moves Beyond Hoarding to Living Simulations](https://medium.com/design-bootcamp/data-science-moves-beyond-hoarding-to-living-simulations-dd23f699ba81?source=rss-6c104cc85316------2)
 - [OpenAI Hits Code Red While Google Closes the Gap Fast](https://blog.stackademic.com/openai-hits-code-red-while-google-closes-the-gap-fast-2006b6749f06?source=rss-6c104cc85316------2)
-- [Why Data Labeling Just Became AI’s Hottest Billion Dollar Bet](https://medium.com/data-science-collective/why-data-labeling-just-became-ais-hottest-billion-dollar-bet-9c5fd237aa4c?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
 
