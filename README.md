@@ -19,7 +19,7 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 * **Interests:** Generative AI, LLMs, FinTech, TTS, AI-powered applications
 
 ### 🏆 My Projects & Achievements
-* **[Moolya Veda] (https://moolyaveda.in/)**: A financial analysis application I built.
+* **[Moolya Veda] (https://moolyaveda.in/)**: A financial analysis application I built
 * **Shinkansen Hackathon Winner**: My team (with Arun & Karthik) won the Shinkansen travel experience hackathon (Sept 2025).
 
 ### 🌎 Find Me Around the Web
