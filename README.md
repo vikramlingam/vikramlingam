@@ -30,10 +30,10 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS ReInvent 2025 Signals a Seismic Shift in AI Infrastructure](https://medium.com/@vikramlingam/aws-reinvent-2025-signals-a-seismic-shift-in-ai-infrastructure-932f85cecf8e?source=rss-6c104cc85316------2)
+- [Machine Learning Evolves to Learn in Real Time](https://medium.com/@vikramlingam/machine-learning-evolves-to-learn-in-real-time-e652269f3603?source=rss-6c104cc85316------2)
 - [Why Data Science Agents Are Making Experts Obsolete Overnight](https://medium.com/@vikramlingam/why-data-science-agents-are-making-experts-obsolete-overnight-54bb61546dce?source=rss-6c104cc85316------2)
 - [Machine Learning Models Now Memorize Insights During Real Use](https://medium.com/@vikramlingam/machine-learning-models-now-memorize-insights-during-real-use-f865d686a436?source=rss-6c104cc85316------2)
 - [Why Reinforcement Learning Environments Are Redefining Data Science Workflows](https://pub.towardsai.net/why-reinforcement-learning-environments-are-redefining-data-science-workflows-3e7dbdea0dc1?source=rss-6c104cc85316------2)
-- [OpenAI Sounds the Alarm as Google Closes In on AI Dominance](https://blog.stackademic.com/openai-sounds-the-alarm-as-google-closes-in-on-ai-dominance-4fafc52f8009?source=rss-6c104cc85316------2)
-- [Mistral’s Tiny AI Models Are Quietly Reshaping the Future of Robotics](https://ai.plainenglish.io/mistrals-tiny-ai-models-are-quietly-reshaping-the-future-of-robotics-e1bf38e1dc71?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
 
