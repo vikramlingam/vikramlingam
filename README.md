@@ -30,8 +30,8 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Science Fundamentals Every Professionals Can Master Quickly](https://medium.com/@vikramlingam/data-science-fundamentals-every-professionals-can-master-quickly-836578eaee39?source=rss-6c104cc85316------2)
-- [AI Emerges as Science’s Ultimate Research Partner](https://medium.com/@vikramlingam/ai-emerges-as-sciences-ultimate-research-partner-772d2c039915?source=rss-6c104cc85316------2)
+- [Data Science Fundamentals Every Professionals Can Master Quickly](https://medium.com/data-science-collective/data-science-fundamentals-every-professionals-can-master-quickly-836578eaee39?source=rss-6c104cc85316------2)
+- [AI Emerges as Science’s Ultimate Research Partner](https://pub.towardsai.net/ai-emerges-as-sciences-ultimate-research-partner-772d2c039915?source=rss-6c104cc85316------2)
 - [Why Physical AI Could Finally Make Self-Driving Cars Reliable?](https://medium.com/data-science-collective/why-physical-ai-could-finally-make-self-driving-cars-reliable-fcafcc46e0c4?source=rss-6c104cc85316------2)
 - [Why AI’s Future Hinges on Data Scientists Building Virtual Worlds?](https://medium.com/@vikramlingam/why-ais-future-hinges-on-data-scientists-building-virtual-worlds-eec265c417e8?source=rss-6c104cc85316------2)
 - [AI Agents Are Automating Data Science Tasks You Never Thought Possible](https://pub.towardsai.net/ai-agents-are-automating-data-science-tasks-you-never-thought-possible-fc8b429b85a9?source=rss-6c104cc85316------2)
