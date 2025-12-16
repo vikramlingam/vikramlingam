@@ -26,7 +26,7 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 * **LinkedIn:** [https://www.linkedin.com/in/vikramlingam/]
 * **Medium:** [https://medium.com/@vikramlingam]
 * **YouTube:** [https://www.youtube.com/@vikramlingam]
-* **Portfolio:** [https://www.vikramlingam.com]
+* **Portfolio:** [https://www.vikramlingam.com] 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -36,4 +36,3 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 - [Data Science Essentials Every Beginner Needs in 2026](https://medium.com/activated-thinker/data-science-essentials-every-beginner-needs-in-2026-c61ad88c89f9?source=rss-6c104cc85316------2)
 - [Data Science Essentials Every Professional Can Grasp Today](https://medium.com/@vikramlingam/data-science-essentials-every-professional-can-grasp-today-960e09992ad9?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
-
