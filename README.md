@@ -30,10 +30,10 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Banks Bet Big on AI and Fintech to Redefine Finance](https://medium.com/@vikramlingam/banks-bet-big-on-ai-and-fintech-to-redefine-finance-c3dfc08d7f17?source=rss-6c104cc85316------2)
+- [AI Agents and Tools Reshape Data Science for Modern Professionals](https://medium.com/@vikramlingam/ai-agents-and-tools-reshape-data-science-for-modern-professionals-2e4c56f1acc8?source=rss-6c104cc85316------2)
 - [AI Research Splits into Safety and Ethics Worlds Reshaping Innovation](https://medium.com/data-science-collective/ai-research-splits-into-safety-and-ethics-worlds-reshaping-innovation-af8d647650e8?source=rss-6c104cc85316------2)
 - [Data Science Essentials Every Beginner Needs in 2026](https://medium.com/activated-thinker/data-science-essentials-every-beginner-needs-in-2026-c61ad88c89f9?source=rss-6c104cc85316------2)
 - [Data Science Essentials Every Professional Can Grasp Today](https://medium.com/@vikramlingam/data-science-essentials-every-professional-can-grasp-today-960e09992ad9?source=rss-6c104cc85316------2)
-- [AI Agents Transform Science and Workflows Starting Now](https://pub.towardsai.net/ai-agents-transform-science-and-workflows-starting-now-0cf4d48661fd?source=rss-6c104cc85316------2)
-- [Machine Learning Masters Itself to Tackle Real World Challenges](https://blog.stackademic.com/machine-learning-masters-itself-to-tackle-real-world-challenges-bdd00314c671?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
 
