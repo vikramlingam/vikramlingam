@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Powers Up Work and Science in 2025](https://medium.com/@vikramlingam/ai-powers-up-work-and-science-in-2025-1361be2444a3?source=rss-6c104cc85316------2)
+- [Machine Learning Builds Smarter Tools to Advance Itself](https://medium.com/@vikramlingam/machine-learning-builds-smarter-tools-to-advance-itself-7e6b7f66d2b8?source=rss-6c104cc85316------2)
 - [Banks Bet Big on AI and Fintech to Redefine Finance](https://medium.com/coinmonks/banks-bet-big-on-ai-and-fintech-to-redefine-finance-c3dfc08d7f17?source=rss-6c104cc85316------2)
 - [AI Agents and Tools Reshape Data Science for Modern Professionals](https://blog.stackademic.com/ai-agents-and-tools-reshape-data-science-for-modern-professionals-2e4c56f1acc8?source=rss-6c104cc85316------2)
 - [AI Research Splits into Safety and Ethics Worlds Reshaping Innovation](https://medium.com/data-science-collective/ai-research-splits-into-safety-and-ethics-worlds-reshaping-innovation-af8d647650e8?source=rss-6c104cc85316------2)
-- [Data Science Essentials Every Beginner Needs in 2026](https://medium.com/activated-thinker/data-science-essentials-every-beginner-needs-in-2026-c61ad88c89f9?source=rss-6c104cc85316------2)
-- [Data Science Essentials Every Professional Can Grasp Today](https://medium.com/activated-thinker/data-science-essentials-every-professional-can-grasp-today-960e09992ad9?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
