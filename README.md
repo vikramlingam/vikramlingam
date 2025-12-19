@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning Pushes Boundaries by Optimizing Its Own Processes](https://medium.com/@vikramlingam/machine-learning-pushes-boundaries-by-optimizing-its-own-processes-4d27e0d64fc8?source=rss-6c104cc85316------2)
+- [AI Agents Make Data Science Accessible to Everyone Now](https://medium.com/data-science-collective/ai-agents-make-data-science-accessible-to-everyone-now-9272ab69dcb2?source=rss-6c104cc85316------2)
+- [AI Agents Unlock Data Science Power for Everyone in 2025](https://python.plainenglish.io/ai-agents-unlock-data-science-power-for-everyone-in-2025-605a7162702d?source=rss-6c104cc85316------2)
+- [Machine Learning Pushes Boundaries by Optimizing Its Own Processes](https://medium.com/design-bootcamp/machine-learning-pushes-boundaries-by-optimizing-its-own-processes-4d27e0d64fc8?source=rss-6c104cc85316------2)
 - [AI Transforms Scientific Discovery and Fuels Everyday Innovation](https://medium.com/@vikramlingam/ai-transforms-scientific-discovery-and-fuels-everyday-innovation-7f14cf4001b9?source=rss-6c104cc85316------2)
 - [AI Powers Up Work and Science in 2025](https://medium.com/@vikramlingam/ai-powers-up-work-and-science-in-2025-1361be2444a3?source=rss-6c104cc85316------2)
-- [Machine Learning Builds Smarter Tools to Advance Itself](https://medium.com/@vikramlingam/machine-learning-builds-smarter-tools-to-advance-itself-7e6b7f66d2b8?source=rss-6c104cc85316------2)
-- [Banks Bet Big on AI and Fintech to Redefine Finance](https://medium.com/coinmonks/banks-bet-big-on-ai-and-fintech-to-redefine-finance-c3dfc08d7f17?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
