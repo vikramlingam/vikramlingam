@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents Simplify Data Science for Everyday Professionals](https://medium.com/@vikramlingam/ai-agents-simplify-data-science-for-everyday-professionals-2525d3fec105?source=rss-6c104cc85316------2)
+- [AI Agents Transform Data Science into Everyday Superpower](https://medium.com/@vikramlingam/ai-agents-transform-data-science-into-everyday-superpower-880ef935e088?source=rss-6c104cc85316------2)
 - [AI Agents Make Data Science Accessible to Everyone Now](https://medium.com/data-science-collective/ai-agents-make-data-science-accessible-to-everyone-now-9272ab69dcb2?source=rss-6c104cc85316------2)
 - [AI Agents Unlock Data Science Power for Everyone in 2025](https://python.plainenglish.io/ai-agents-unlock-data-science-power-for-everyone-in-2025-605a7162702d?source=rss-6c104cc85316------2)
 - [Machine Learning Pushes Boundaries by Optimizing Its Own Processes](https://medium.com/design-bootcamp/machine-learning-pushes-boundaries-by-optimizing-its-own-processes-4d27e0d64fc8?source=rss-6c104cc85316------2)
-- [AI Transforms Scientific Discovery and Fuels Everyday Innovation](https://medium.com/@vikramlingam/ai-transforms-scientific-discovery-and-fuels-everyday-innovation-7f14cf4001b9?source=rss-6c104cc85316------2)
-- [AI Powers Up Work and Science in 2025](https://medium.com/@vikramlingam/ai-powers-up-work-and-science-in-2025-1361be2444a3?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
