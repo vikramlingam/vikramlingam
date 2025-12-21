@@ -8,7 +8,7 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 * 🤖 **AI Agents:** Researching and building autonomous AI agents capable of self-monetization.
 * 🧠 **LLM Fine-Tuning:** Training and fine-tuning small language models (like Microsoft's Phi-series) for specific tasks in finance, accounting, and tax.
-* 🛠️ **Custom AI Tools:** Building open-source, AI-powered applications from scratch, such as custom web browsers and personal search engines.
+* 🛠️ **Custom AI Tools:** Building open-source, AI-powered applications from scratch, such as custom web browsers and personal search engines - Check perceive search repo.
 * ✍️ **Content Creation:** Writing articles and creating videos about AI, Machine Learning, and FinTech for my Medium and YouTube channels.
 * 📊 **Financial Automation:** Applying machine learning to automate complex financial processes.
 * 💡 **AI-Product Prototyping:** Exploring and building new AI-driven business ideas, like my concept for a WhatsApp-based audio news summary service and on-device TTS model that can clone any voice.
