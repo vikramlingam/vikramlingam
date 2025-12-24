@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Learns 90% Faster with 1% Data: Meta Secrets](https://medium.com/@vikramlingam/ai-learns-90-faster-with-1-data-meta-secrets-268057836498?source=rss-6c104cc85316------2)
+- [Why LLMs Train on 45TB Data: Shocking NLP Stats](https://medium.com/@vikramlingam/why-llms-train-on-45tb-data-shocking-nlp-stats-b25338edbb74?source=rss-6c104cc85316------2)
 - [AI Reality Check in 2025 Breakthroughs Tempered by Real Limits](https://medium.com/@vikramlingam/ai-reality-check-in-2025-breakthroughs-tempered-by-real-limits-e45f3193bd25?source=rss-6c104cc85316------2)
 - [AI Accelerates Scientific Breakthroughs While Sparking Human Concerns](https://medium.com/@vikramlingam/ai-accelerates-scientific-breakthroughs-while-sparking-human-concerns-04dc6aa0f4fc?source=rss-6c104cc85316------2)
 - [AI Ignites Fintech Growth Despite Rising Unemployment](https://medium.com/@vikramlingam/ai-ignites-fintech-growth-despite-rising-unemployment-d7da1a492514?source=rss-6c104cc85316------2)
-- [Data Science Essentials Every Professional Can Master Today](https://medium.com/@vikramlingam/data-science-essentials-every-professional-can-master-today-39588c589cac?source=rss-6c104cc85316------2)
-- [AI Agents Simplify Data Science for Everyday Professionals](https://medium.com/@vikramlingam/ai-agents-simplify-data-science-for-everyday-professionals-2525d3fec105?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
