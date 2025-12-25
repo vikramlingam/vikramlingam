@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Truth: Few-Shot Learning Adapts 10x Faster](https://medium.com/@vikramlingam/the-truth-few-shot-learning-adapts-10x-faster-1d830f7500f0?source=rss-6c104cc85316------2)
+- [The Secret to HashKey Capital’s $250M First Close Success](https://medium.com/coinmonks/the-secret-to-hashkey-capitals-250m-first-close-success-6ad2f03808fc?source=rss-6c104cc85316------2)
 - [AI Learns 90% Faster with 1% Data: Meta Secrets](https://medium.com/@vikramlingam/ai-learns-90-faster-with-1-data-meta-secrets-268057836498?source=rss-6c104cc85316------2)
 - [Why LLMs Train on 45TB Data: Shocking NLP Stats](https://medium.com/@vikramlingam/why-llms-train-on-45tb-data-shocking-nlp-stats-b25338edbb74?source=rss-6c104cc85316------2)
 - [AI Reality Check in 2025 Breakthroughs Tempered by Real Limits](https://medium.com/@vikramlingam/ai-reality-check-in-2025-breakthroughs-tempered-by-real-limits-e45f3193bd25?source=rss-6c104cc85316------2)
-- [AI Accelerates Scientific Breakthroughs While Sparking Human Concerns](https://medium.com/@vikramlingam/ai-accelerates-scientific-breakthroughs-while-sparking-human-concerns-04dc6aa0f4fc?source=rss-6c104cc85316------2)
-- [AI Ignites Fintech Growth Despite Rising Unemployment](https://medium.com/@vikramlingam/ai-ignites-fintech-growth-despite-rising-unemployment-d7da1a492514?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
