@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Empowers Data Scientists to Unlock Deeper Insights Together](https://medium.com/@vikramlingam/ai-empowers-data-scientists-to-unlock-deeper-insights-together-44452853e348?source=rss-6c104cc85316------2)
+- [AI Accelerates Scientific Discoveries with Real Boosts and Hidden Drawbacks](https://medium.com/@vikramlingam/ai-accelerates-scientific-discoveries-with-real-boosts-and-hidden-drawbacks-e2904acf7eaf?source=rss-6c104cc85316------2)
 - [Machine Learning Builds Smarter Systems by Optimizing Itself](https://medium.com/@vikramlingam/machine-learning-builds-smarter-systems-by-optimizing-itself-766bbe5f3d14?source=rss-6c104cc85316------2)
 - [AI Supercharges Scientific Labs Yet Erodes Researcher Creativity](https://medium.com/@vikramlingam/ai-supercharges-scientific-labs-yet-erodes-researcher-creativity-4a11fd729936?source=rss-6c104cc85316------2)
 - [The Truth: Few-Shot Learning Adapts 10x Faster](https://medium.com/@vikramlingam/the-truth-few-shot-learning-adapts-10x-faster-1d830f7500f0?source=rss-6c104cc85316------2)
-- [The Secret to HashKey Capital’s $250M First Close Success](https://medium.com/coinmonks/the-secret-to-hashkey-capitals-250m-first-close-success-6ad2f03808fc?source=rss-6c104cc85316------2)
-- [AI Learns 90% Faster with 1% Data: Meta Secrets](https://medium.com/@vikramlingam/ai-learns-90-faster-with-1-data-meta-secrets-268057836498?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
