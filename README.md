@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Science Transforms Everyday Decisions into Smart Strategies](https://medium.com/@vikramlingam/data-science-transforms-everyday-decisions-into-smart-strategies-100fa4ed0b14?source=rss-6c104cc85316------2)
+- [AI Teams Up with Humans to Boost Science and Education](https://medium.com/@vikramlingam/ai-teams-up-with-humans-to-boost-science-and-education-b5707fe1734a?source=rss-6c104cc85316------2)
 - [AI Agents Push Machine Learning Boundaries in Open Ended Research](https://medium.com/@vikramlingam/ai-agents-push-machine-learning-boundaries-in-open-ended-research-ea66b6818a8e?source=rss-6c104cc85316------2)
 - [AI Quietly Rewires How You Think and Work Daily](https://medium.com/@vikramlingam/ai-quietly-rewires-how-you-think-and-work-daily-e81117b457e8?source=rss-6c104cc85316------2)
 - [AI Empowers Data Scientists to Unlock Deeper Insights Together](https://medium.com/@vikramlingam/ai-empowers-data-scientists-to-unlock-deeper-insights-together-44452853e348?source=rss-6c104cc85316------2)
-- [AI Accelerates Scientific Discoveries with Real Boosts and Hidden Drawbacks](https://medium.com/@vikramlingam/ai-accelerates-scientific-discoveries-with-real-boosts-and-hidden-drawbacks-e2904acf7eaf?source=rss-6c104cc85316------2)
-- [Machine Learning Builds Smarter Systems by Optimizing Itself](https://medium.com/@vikramlingam/machine-learning-builds-smarter-systems-by-optimizing-itself-766bbe5f3d14?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
