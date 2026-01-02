@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Transforms Science by Acting as Your Virtual Lab Partner](https://medium.com/@vikramlingam/ai-transforms-science-by-acting-as-your-virtual-lab-partner-27fb1e5c5a5d?source=rss-6c104cc85316------2)
+- [AI Joins Forces with Scientists to Speed Up Discoveries Everywhere](https://medium.com/@vikramlingam/ai-joins-forces-with-scientists-to-speed-up-discoveries-everywhere-8f0a3f30ec8a?source=rss-6c104cc85316------2)
 - [Data Science Transforms Everyday Decisions into Smart Strategies](https://medium.com/@vikramlingam/data-science-transforms-everyday-decisions-into-smart-strategies-100fa4ed0b14?source=rss-6c104cc85316------2)
 - [AI Teams Up with Humans to Boost Science and Education](https://medium.com/@vikramlingam/ai-teams-up-with-humans-to-boost-science-and-education-b5707fe1734a?source=rss-6c104cc85316------2)
 - [AI Agents Push Machine Learning Boundaries in Open Ended Research](https://medium.com/@vikramlingam/ai-agents-push-machine-learning-boundaries-in-open-ended-research-ea66b6818a8e?source=rss-6c104cc85316------2)
-- [AI Quietly Rewires How You Think and Work Daily](https://medium.com/@vikramlingam/ai-quietly-rewires-how-you-think-and-work-daily-e81117b457e8?source=rss-6c104cc85316------2)
-- [AI Empowers Data Scientists to Unlock Deeper Insights Together](https://medium.com/@vikramlingam/ai-empowers-data-scientists-to-unlock-deeper-insights-together-44452853e348?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
