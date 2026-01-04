@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Emerges as Science’s New Research Partner](https://medium.com/@vikramlingam/ai-emerges-as-sciences-new-research-partner-28f5e95db98b?source=rss-6c104cc85316------2)
 - [Machine Learning Reinvents Itself with Self-Optimizing Techniques](https://medium.com/@vikramlingam/machine-learning-reinvents-itself-with-self-optimizing-techniques-155e0e1e8896?source=rss-6c104cc85316------2)
 - [AI Steps In as Science’s Silent Powerhouse](https://medium.com/@vikramlingam/ai-steps-in-as-sciences-silent-powerhouse-3de7d26978e2?source=rss-6c104cc85316------2)
 - [AI Transforms Science by Acting as Your Virtual Lab Partner](https://medium.com/coding-nexus/ai-transforms-science-by-acting-as-your-virtual-lab-partner-27fb1e5c5a5d?source=rss-6c104cc85316------2)
 - [AI Joins Forces with Scientists to Speed Up Discoveries Everywhere](https://medium.com/@vikramlingam/ai-joins-forces-with-scientists-to-speed-up-discoveries-everywhere-8f0a3f30ec8a?source=rss-6c104cc85316------2)
-- [Data Science Transforms Everyday Decisions into Smart Strategies](https://medium.com/data-science-collective/data-science-transforms-everyday-decisions-into-smart-strategies-100fa4ed0b14?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
