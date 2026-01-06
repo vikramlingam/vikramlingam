@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hong Kong Sparks Global Fintech Boom with Record Breaking IPOs](https://medium.com/@vikramlingam/hong-kong-sparks-global-fintech-boom-with-record-breaking-ipos-ea592883dace?source=rss-6c104cc85316------2)
+- [Fintech Shifts Toward AI and Tokenization for 2026 Gains](https://medium.com/@vikramlingam/fintech-shifts-toward-ai-and-tokenization-for-2026-gains-77f22896705f?source=rss-6c104cc85316------2)
 - [Machine Learning Overcomes Forgetting with Nested and Self-Optimizing Techniques](https://medium.com/@vikramlingam/machine-learning-overcomes-forgetting-with-nested-and-self-optimizing-techniques-0587b502e864?source=rss-6c104cc85316------2)
 - [Datasets and Papers Supercharge Everyday Machine Learning Progress](https://medium.com/the-quiet-corner/datasets-and-papers-supercharge-everyday-machine-learning-progress-5381b5ea0571?source=rss-6c104cc85316------2)
 - [AI Emerges as Science’s New Research Partner](https://medium.com/@vikramlingam/ai-emerges-as-sciences-new-research-partner-28f5e95db98b?source=rss-6c104cc85316------2)
-- [Machine Learning Reinvents Itself with Self-Optimizing Techniques](https://medium.com/@vikramlingam/machine-learning-reinvents-itself-with-self-optimizing-techniques-155e0e1e8896?source=rss-6c104cc85316------2)
-- [AI Steps In as Science’s Silent Powerhouse](https://medium.com/@vikramlingam/ai-steps-in-as-sciences-silent-powerhouse-3de7d26978e2?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
