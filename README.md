@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fintech Defies Odds With AI Bets Acquisitions and Global Plays](https://medium.com/@vikramlingam/fintech-defies-odds-with-ai-bets-acquisitions-and-global-plays-3bd80473fae6?source=rss-6c104cc85316------2)
+- [Data Science Transforms Workplaces with AI Agents and Smart Tools](https://medium.com/@vikramlingam/data-science-transforms-workplaces-with-ai-agents-and-smart-tools-2a1c57256eb6?source=rss-6c104cc85316------2)
 - [Data Science Powers Everyday Decisions Through AI Agents](https://medium.com/@vikramlingam/data-science-powers-everyday-decisions-through-ai-agents-aa2c9ba4da97?source=rss-6c104cc85316------2)
 - [AI and Crypto Fusion Reshapes Finance Landscape in 2026](https://medium.com/@vikramlingam/ai-and-crypto-fusion-reshapes-finance-landscape-in-2026-656f0b0de730?source=rss-6c104cc85316------2)
 - [Hong Kong Sparks Global Fintech Boom with Record Breaking IPOs](https://medium.com/@vikramlingam/hong-kong-sparks-global-fintech-boom-with-record-breaking-ipos-ea592883dace?source=rss-6c104cc85316------2)
-- [Fintech Shifts Toward AI and Tokenization for 2026 Gains](https://medium.com/@vikramlingam/fintech-shifts-toward-ai-and-tokenization-for-2026-gains-77f22896705f?source=rss-6c104cc85316------2)
-- [Machine Learning Overcomes Forgetting with Nested and Self-Optimizing Techniques](https://medium.com/@vikramlingam/machine-learning-overcomes-forgetting-with-nested-and-self-optimizing-techniques-0587b502e864?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
