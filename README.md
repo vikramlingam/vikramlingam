@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Transforms Science into a Collaborative Powerhouse for Breakthroughs](https://medium.com/@vikramlingam/ai-transforms-science-into-a-collaborative-powerhouse-for-breakthroughs-47ee9a089fac?source=rss-6c104cc85316------2)
+- [AI Becomes Science’s Secret Weapon for Faster Discoveries](https://medium.com/@vikramlingam/ai-becomes-sciences-secret-weapon-for-faster-discoveries-d148bce12449?source=rss-6c104cc85316------2)
 - [Fintech Defies Odds With AI Bets Acquisitions and Global Plays](https://medium.com/@vikramlingam/fintech-defies-odds-with-ai-bets-acquisitions-and-global-plays-3bd80473fae6?source=rss-6c104cc85316------2)
 - [Data Science Transforms Workplaces with AI Agents and Smart Tools](https://medium.com/@vikramlingam/data-science-transforms-workplaces-with-ai-agents-and-smart-tools-2a1c57256eb6?source=rss-6c104cc85316------2)
 - [Data Science Powers Everyday Decisions Through AI Agents](https://medium.com/@vikramlingam/data-science-powers-everyday-decisions-through-ai-agents-aa2c9ba4da97?source=rss-6c104cc85316------2)
-- [AI and Crypto Fusion Reshapes Finance Landscape in 2026](https://medium.com/@vikramlingam/ai-and-crypto-fusion-reshapes-finance-landscape-in-2026-656f0b0de730?source=rss-6c104cc85316------2)
-- [Hong Kong Sparks Global Fintech Boom with Record Breaking IPOs](https://medium.com/@vikramlingam/hong-kong-sparks-global-fintech-boom-with-record-breaking-ipos-ea592883dace?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
