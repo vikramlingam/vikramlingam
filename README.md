@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Uncovering Limitations and Questionable Practices in Machine Learning Research](https://medium.com/@vikramlingam/uncovering-limitations-and-questionable-practices-in-machine-learning-research-7f9d0c0caf6d?source=rss-6c104cc85316------2)
+- [Periodic Table Revolutionizes Machine Learning Discoveries](https://medium.com/@vikramlingam/periodic-table-revolutionizes-machine-learning-discoveries-9f7f924c0f0e?source=rss-6c104cc85316------2)
 - [AI Agents Unlock Faster Scientific Breakthroughs in Everyday Labs](https://medium.com/@vikramlingam/ai-agents-unlock-faster-scientific-breakthroughs-in-everyday-labs-b411b2f98c8f?source=rss-6c104cc85316------2)
 - [Periodic Table Revolutionizes Machine Learning Algorithm Design](https://medium.com/@vikramlingam/periodic-table-revolutionizes-machine-learning-algorithm-design-20b01d1ac2eb?source=rss-6c104cc85316------2)
 - [Data Science Transforms Industries with Tools and Trends Shaping 2026](https://medium.com/@vikramlingam/data-science-transforms-industries-with-tools-and-trends-shaping-2026-13376abf2125?source=rss-6c104cc85316------2)
-- [Continual Learning Powers Machine Learning Toward Lifelong Intelligence](https://medium.com/@vikramlingam/continual-learning-powers-machine-learning-toward-lifelong-intelligence-98b0cce29047?source=rss-6c104cc85316------2)
-- [AI Transforms Science into a Collaborative Powerhouse for Breakthroughs](https://medium.com/@vikramlingam/ai-transforms-science-into-a-collaborative-powerhouse-for-breakthroughs-47ee9a089fac?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
