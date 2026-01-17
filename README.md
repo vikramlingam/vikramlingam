@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Emerges as Science’s Secret Weapon for Faster Breakthroughs](https://medium.com/@vikramlingam/ai-emerges-as-sciences-secret-weapon-for-faster-breakthroughs-d0fde09de28f?source=rss-6c104cc85316------2)
+- [Unlocking Data Science Power with the 4+1 Framework](https://medium.com/coding-nexus/unlocking-data-science-power-with-the-4-1-framework-9e97b232c59e?source=rss-6c104cc85316------2)
+- [AI Emerges as Science’s Secret Weapon for Faster Breakthroughs](https://blog.stackademic.com/ai-emerges-as-sciences-secret-weapon-for-faster-breakthroughs-d0fde09de28f?source=rss-6c104cc85316------2)
 - [AI Reshapes Work and Sparks Innovation Across Industries in 2025](https://medium.com/@vikramlingam/ai-reshapes-work-and-sparks-innovation-across-industries-in-2025-a5b127f4d272?source=rss-6c104cc85316------2)
 - [Uncovering Limitations and Questionable Practices in Machine Learning Research](https://medium.com/@vikramlingam/uncovering-limitations-and-questionable-practices-in-machine-learning-research-7f9d0c0caf6d?source=rss-6c104cc85316------2)
 - [Periodic Table Revolutionizes Machine Learning Discoveries](https://medium.com/@vikramlingam/periodic-table-revolutionizes-machine-learning-discoveries-9f7f924c0f0e?source=rss-6c104cc85316------2)
-- [AI Agents Unlock Faster Scientific Breakthroughs in Everyday Labs](https://medium.com/@vikramlingam/ai-agents-unlock-faster-scientific-breakthroughs-in-everyday-labs-b411b2f98c8f?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
