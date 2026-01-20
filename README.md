@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Masters Self Optimization in 2025](https://medium.com/@vikramlingam/machine-learning-masters-self-optimization-in-2025-203fca0ffb15?source=rss-6c104cc85316------2)
+- [Data Science Evolution Unlocks Everyday Insights for Modern Professionals](https://medium.com/@vikramlingam/data-science-evolution-unlocks-everyday-insights-for-modern-professionals-85b4fb90b642?source=rss-6c104cc85316------2)
 - [AI Automates Discovery Accelerating Science Beyond Human Limits](https://medium.com/@vikramlingam/ai-automates-discovery-accelerating-science-beyond-human-limits-3a8f5ef44e47?source=rss-6c104cc85316------2)
 - [Data Science Transforms Raw Numbers into Business Goldmines](https://medium.com/@vikramlingam/data-science-transforms-raw-numbers-into-business-goldmines-891373194b55?source=rss-6c104cc85316------2)
 - [Machine Learning Evolves Through AI Agents and Smart Benchmarks](https://medium.com/@vikramlingam/machine-learning-evolves-through-ai-agents-and-smart-benchmarks-b297d4858d07?source=rss-6c104cc85316------2)
-- [Machine Learning Turns Inward to Accelerate Its Own Evolution](https://medium.com/@vikramlingam/machine-learning-turns-inward-to-accelerate-its-own-evolution-fee6a6bf1b23?source=rss-6c104cc85316------2)
-- [AI Agents Push Machine Learning Boundaries Through Automated Research](https://medium.com/@vikramlingam/ai-agents-push-machine-learning-boundaries-through-automated-research-7d69b7a8483d?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
