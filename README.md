@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reproducibility Challenges Reshaping Machine Learning Practices in 2025](https://medium.com/@vikramlingam/reproducibility-challenges-reshaping-machine-learning-practices-in-2025-58fbb1c0bccb?source=rss-6c104cc85316------2)
+- [AI Accountability Reshapes Finance in 2026](https://medium.com/@vikramlingam/ai-accountability-reshapes-finance-in-2026-b26d2433c2b7?source=rss-6c104cc85316------2)
 - [AI Supercharges Scientific Discovery But Sparks Creativity Concerns](https://medium.com/@vikramlingam/ai-supercharges-scientific-discovery-but-sparks-creativity-concerns-c3f1bd1af06e?source=rss-6c104cc85316------2)
 - [AI Evolves Beyond Text in 2025 Toward Multisensory Worlds](https://medium.com/@vikramlingam/ai-evolves-beyond-text-in-2025-toward-multisensory-worlds-3fe473318c68?source=rss-6c104cc85316------2)
 - [Reproducibility Shapes Machine Learning’s Reliable Future](https://medium.com/@vikramlingam/reproducibility-shapes-machine-learnings-reliable-future-5085ce44bb1d?source=rss-6c104cc85316------2)
-- [AI Transforms Scientific Discovery Boosting Innovation Amid Creativity Costs](https://medium.com/@vikramlingam/ai-transforms-scientific-discovery-boosting-innovation-amid-creativity-costs-73f5d0b12f2a?source=rss-6c104cc85316------2)
-- [Machine Learning Masters Self Optimization in 2025](https://medium.com/@vikramlingam/machine-learning-masters-self-optimization-in-2025-203fca0ffb15?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
