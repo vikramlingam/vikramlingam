@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Science Workflows Evolve to Power 2026 Innovation](https://medium.com/@vikramlingam/data-science-workflows-evolve-to-power-2026-innovation-0a1d7220f497?source=rss-6c104cc85316------2)
+- [AI Supercharges Researcher Careers Yet Constrains Broader Scientific Exploration](https://medium.com/@vikramlingam/ai-supercharges-researcher-careers-yet-constrains-broader-scientific-exploration-7db68fcf9aaa?source=rss-6c104cc85316------2)
 - [Accountability Redefines AI in Finance for 2026 Success](https://medium.com/@vikramlingam/accountability-redefines-ai-in-finance-for-2026-success-c4e1dcc5e9cf?source=rss-6c104cc85316------2)
 - [AI Supercharges Researcher Careers But Narrows Scientific Horizons](https://medium.com/@vikramlingam/ai-supercharges-researcher-careers-but-narrows-scientific-horizons-0ad26a170209?source=rss-6c104cc85316------2)
 - [Reproducibility Challenges Reshaping Machine Learning Practices in 2025](https://medium.com/@vikramlingam/reproducibility-challenges-reshaping-machine-learning-practices-in-2025-58fbb1c0bccb?source=rss-6c104cc85316------2)
-- [AI Accountability Reshapes Finance in 2026](https://medium.com/@vikramlingam/ai-accountability-reshapes-finance-in-2026-b26d2433c2b7?source=rss-6c104cc85316------2)
-- [AI Supercharges Scientific Discovery But Sparks Creativity Concerns](https://medium.com/@vikramlingam/ai-supercharges-scientific-discovery-but-sparks-creativity-concerns-c3f1bd1af06e?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
