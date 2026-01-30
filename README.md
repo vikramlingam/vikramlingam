@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fintech Forges Ahead in 2026 with AI and Regulation](https://medium.com/@vikramlingam/fintech-forges-ahead-in-2026-with-ai-and-regulation-a254cde17988?source=rss-6c104cc85316------2)
+- [AI Supercharges Personal Science Success But Risks Stifling Broader Innovation](https://medium.com/@vikramlingam/ai-supercharges-personal-science-success-but-risks-stifling-broader-innovation-368152ca4052?source=rss-6c104cc85316------2)
 - [Machine Learning Limitations Exposed for Smarter Sustainable Progress](https://medium.com/@vikramlingam/machine-learning-limitations-exposed-for-smarter-sustainable-progress-22c9722fe004?source=rss-6c104cc85316------2)
 - [AI Transforms Science Boosting Careers Yet Constraining Discovery](https://medium.com/@vikramlingam/ai-transforms-science-boosting-careers-yet-constraining-discovery-3291f0b92a41?source=rss-6c104cc85316------2)
 - [Data Science Workflows Evolve to Power 2026 Innovation](https://medium.com/@vikramlingam/data-science-workflows-evolve-to-power-2026-innovation-0a1d7220f497?source=rss-6c104cc85316------2)
-- [AI Supercharges Researcher Careers Yet Constrains Broader Scientific Exploration](https://medium.com/@vikramlingam/ai-supercharges-researcher-careers-yet-constrains-broader-scientific-exploration-7db68fcf9aaa?source=rss-6c104cc85316------2)
-- [Accountability Redefines AI in Finance for 2026 Success](https://medium.com/@vikramlingam/accountability-redefines-ai-in-finance-for-2026-success-c4e1dcc5e9cf?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
