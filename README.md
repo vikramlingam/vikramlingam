@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Fintech Matures in 2026 Balancing AI Innovation and Strict Regulations](https://medium.com/@vikramlingam/fintech-matures-in-2026-balancing-ai-innovation-and-strict-regulations-26d98ea49a6a?source=rss-6c104cc85316------2)
+- [Fintech’s Rollercoaster Year: Triumphs Trials and Tech Transformations](https://medium.com/@vikramlingam/fintechs-rollercoaster-year-triumphs-trials-and-tech-transformations-1247a03d0bf9?source=rss-6c104cc85316------2)
+- [Nested Learning Transforms Machine Learning into Adaptive Powerhouses](https://medium.com/@vikramlingam/nested-learning-transforms-machine-learning-into-adaptive-powerhouses-83f33e0045e0?source=rss-6c104cc85316------2)
+- [Fintech Matures in 2026 Balancing AI Innovation and Strict Regulations](https://medium.com/design-bootcamp/fintech-matures-in-2026-balancing-ai-innovation-and-strict-regulations-26d98ea49a6a?source=rss-6c104cc85316------2)
 - [AI Reshapes Scientific Research Boosting Careers and Limiting Discovery](https://medium.com/@vikramlingam/ai-reshapes-scientific-research-boosting-careers-and-limiting-discovery-aec3007b64ef?source=rss-6c104cc85316------2)
 - [Fintech Forges Ahead in 2026 with AI and Regulation](https://medium.com/@vikramlingam/fintech-forges-ahead-in-2026-with-ai-and-regulation-a254cde17988?source=rss-6c104cc85316------2)
-- [AI Supercharges Personal Science Success But Risks Stifling Broader Innovation](https://medium.com/@vikramlingam/ai-supercharges-personal-science-success-but-risks-stifling-broader-innovation-368152ca4052?source=rss-6c104cc85316------2)
-- [Machine Learning Limitations Exposed for Smarter Sustainable Progress](https://medium.com/@vikramlingam/machine-learning-limitations-exposed-for-smarter-sustainable-progress-22c9722fe004?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
