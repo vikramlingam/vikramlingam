@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fintechs Scale Boldly in 2026 Balancing Innovation Wins and Harsh Realities](https://medium.com/@vikramlingam/fintechs-scale-boldly-in-2026-balancing-innovation-wins-and-harsh-realities-2ee3fc18a178?source=rss-6c104cc85316------2)
+- [AI Agents Redefine Data Science Through Human Collaboration](https://medium.com/@vikramlingam/ai-agents-redefine-data-science-through-human-collaboration-b110143f8318?source=rss-6c104cc85316------2)
 - [Fintech Faces 2026 Crossroads with AI Growth and Security Threats](https://medium.com/@vikramlingam/fintech-faces-2026-crossroads-with-ai-growth-and-security-threats-441d29de886d?source=rss-6c104cc85316------2)
 - [AI Becomes Your Silent Partner Sparking Smarter Daily Decisions](https://medium.com/@vikramlingam/ai-becomes-your-silent-partner-sparking-smarter-daily-decisions-dec450c79af6?source=rss-6c104cc85316------2)
 - [Fintech’s Rollercoaster Year: Triumphs Trials and Tech Transformations](https://medium.com/@vikramlingam/fintechs-rollercoaster-year-triumphs-trials-and-tech-transformations-1247a03d0bf9?source=rss-6c104cc85316------2)
-- [Nested Learning Transforms Machine Learning into Adaptive Powerhouses](https://medium.com/@vikramlingam/nested-learning-transforms-machine-learning-into-adaptive-powerhouses-83f33e0045e0?source=rss-6c104cc85316------2)
-- [Fintech Matures in 2026 Balancing AI Innovation and Strict Regulations](https://medium.com/design-bootcamp/fintech-matures-in-2026-balancing-ai-innovation-and-strict-regulations-26d98ea49a6a?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
