@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Specialists and AI Reshape Finance Landscape in 2026](https://medium.com/@vikramlingam/specialists-and-ai-reshape-finance-landscape-in-2026-743f0373838f?source=rss-6c104cc85316------2)
+- [AI Supercharges Scientific Discovery While Sparking Creativity Concerns](https://medium.com/@vikramlingam/ai-supercharges-scientific-discovery-while-sparking-creativity-concerns-b29e93fcbabf?source=rss-6c104cc85316------2)
 - [Machine Learning Evolves Toward Adaptive and Transparent Systems](https://medium.com/@vikramlingam/machine-learning-evolves-toward-adaptive-and-transparent-systems-9e1991b8f6c8?source=rss-6c104cc85316------2)
 - [Why Specialist Fintechs Will Reshape Global Finance by 2026](https://medium.com/@vikramlingam/why-specialist-fintechs-will-reshape-global-finance-by-2026-f7810343ff0c?source=rss-6c104cc85316------2)
 - [AI Agents Transform Credit Decisions in Evolving Finance Landscape](https://medium.com/@vikramlingam/ai-agents-transform-credit-decisions-in-evolving-finance-landscape-a4c99dc28fdd?source=rss-6c104cc85316------2)
-- [AI Powers Scientific Breakthroughs Reshaping Labs Worldwide](https://medium.com/@vikramlingam/ai-powers-scientific-breakthroughs-reshaping-labs-worldwide-307b9a61c0c1?source=rss-6c104cc85316------2)
-- [Machine Learning Evolves Rapidly Shaping Tomorrow’s Innovations and Solutions](https://medium.com/@vikramlingam/machine-learning-evolves-rapidly-shaping-tomorrows-innovations-and-solutions-fe6c545ced3b?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
