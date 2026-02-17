@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Real Time Payments Transform Global Finance by 2026](https://medium.com/@vikramlingam/real-time-payments-transform-global-finance-by-2026-1802dee8c216?source=rss-6c104cc85316------2)
+- [AI Propels Scientists Upward While Shrinking Discovery Horizons](https://medium.com/@vikramlingam/ai-propels-scientists-upward-while-shrinking-discovery-horizons-c8e781275552?source=rss-6c104cc85316------2)
 - [AI Accelerates Scientists Careers While Narrowing Discovery Horizons](https://medium.com/@vikramlingam/ai-accelerates-scientists-careers-while-narrowing-discovery-horizons-2560ac51846d?source=rss-6c104cc85316------2)
 - [Machine Learning Evolves to Learn Continuously Without Forgetting](https://medium.com/@vikramlingam/machine-learning-evolves-to-learn-continuously-without-forgetting-f2cc6a2838a8?source=rss-6c104cc85316------2)
 - [Specialists and AI Reshape Finance Landscape in 2026](https://medium.com/@vikramlingam/specialists-and-ai-reshape-finance-landscape-in-2026-743f0373838f?source=rss-6c104cc85316------2)
-- [AI Supercharges Scientific Discovery While Sparking Creativity Concerns](https://medium.com/@vikramlingam/ai-supercharges-scientific-discovery-while-sparking-creativity-concerns-b29e93fcbabf?source=rss-6c104cc85316------2)
-- [Machine Learning Evolves Toward Adaptive and Transparent Systems](https://medium.com/@vikramlingam/machine-learning-evolves-toward-adaptive-and-transparent-systems-9e1991b8f6c8?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
