@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [300 Finance Leaders Unveil Fintechs Bold Path to 2026](https://medium.com/@vikramlingam/300-finance-leaders-unveil-fintechs-bold-path-to-2026-5a5b70589c2e?source=rss-6c104cc85316------2)
 - [Data Science Essentials Every Professional Can Master Today](https://medium.com/@vikramlingam/data-science-essentials-every-professional-can-master-today-33aa052fbbb6?source=rss-6c104cc85316------2)
 - [Machine Learning Evolves with Accessible Research and Adaptive Paradigms](https://medium.com/@vikramlingam/machine-learning-evolves-with-accessible-research-and-adaptive-paradigms-7cbbc064597d?source=rss-6c104cc85316------2)
 - [Real Time Payments Transform Global Finance by 2026](https://medium.com/@vikramlingam/real-time-payments-transform-global-finance-by-2026-1802dee8c216?source=rss-6c104cc85316------2)
 - [AI Propels Scientists Upward While Shrinking Discovery Horizons](https://medium.com/@vikramlingam/ai-propels-scientists-upward-while-shrinking-discovery-horizons-c8e781275552?source=rss-6c104cc85316------2)
-- [AI Accelerates Scientists Careers While Narrowing Discovery Horizons](https://medium.com/@vikramlingam/ai-accelerates-scientists-careers-while-narrowing-discovery-horizons-2560ac51846d?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
