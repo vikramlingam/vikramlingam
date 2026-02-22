@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlock Data Science Secrets to Drive Business Decisions Today](https://medium.com/@vikramlingam/unlock-data-science-secrets-to-drive-business-decisions-today-cc216387944e?source=rss-6c104cc85316------2)
+- [Fintech Boom Returns with AI Innovations and Inclusive Models in 2026](https://medium.com/@vikramlingam/fintech-boom-returns-with-ai-innovations-and-inclusive-models-in-2026-25493e59a122?source=rss-6c104cc85316------2)
 - [AI Accelerates Science and Business in Unexpected Ways](https://medium.com/@vikramlingam/ai-accelerates-science-and-business-in-unexpected-ways-960d0f6994c4?source=rss-6c104cc85316------2)
 - [300 Finance Leaders Unveil Fintechs Bold Path to 2026](https://medium.com/@vikramlingam/300-finance-leaders-unveil-fintechs-bold-path-to-2026-5a5b70589c2e?source=rss-6c104cc85316------2)
 - [Data Science Essentials Every Professional Can Master Today](https://medium.com/@vikramlingam/data-science-essentials-every-professional-can-master-today-33aa052fbbb6?source=rss-6c104cc85316------2)
-- [Machine Learning Evolves with Accessible Research and Adaptive Paradigms](https://medium.com/@vikramlingam/machine-learning-evolves-with-accessible-research-and-adaptive-paradigms-7cbbc064597d?source=rss-6c104cc85316------2)
-- [Real Time Payments Transform Global Finance by 2026](https://medium.com/@vikramlingam/real-time-payments-transform-global-finance-by-2026-1802dee8c216?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
