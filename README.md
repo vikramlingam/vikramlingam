@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Floods Academic Conferences with Slop Crumbling Peer Review Foundations](https://medium.com/@vikramlingam/ai-floods-academic-conferences-with-slop-crumbling-peer-review-foundations-99870657e6fd?source=rss-6c104cc85316------2)
 - [AI Accelerates Science but Challenges Researcher Creativity](https://medium.com/@vikramlingam/ai-accelerates-science-but-challenges-researcher-creativity-e5dc0f3e5e2f?source=rss-6c104cc85316------2)
 - [Fintech Newcomers Redefine Finance with AI and Inclusion in 2026](https://medium.com/@vikramlingam/fintech-newcomers-redefine-finance-with-ai-and-inclusion-in-2026-8dcd136140a5?source=rss-6c104cc85316------2)
 - [Unlock Data Science Secrets to Drive Business Decisions Today](https://medium.com/@vikramlingam/unlock-data-science-secrets-to-drive-business-decisions-today-cc216387944e?source=rss-6c104cc85316------2)
 - [Fintech Boom Returns with AI Innovations and Inclusive Models in 2026](https://medium.com/@vikramlingam/fintech-boom-returns-with-ai-innovations-and-inclusive-models-in-2026-25493e59a122?source=rss-6c104cc85316------2)
-- [AI Accelerates Science and Business in Unexpected Ways](https://medium.com/@vikramlingam/ai-accelerates-science-and-business-in-unexpected-ways-960d0f6994c4?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
