@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Stanford RELBENCH Benchmark Pits Neural Nets Against SQL on Real Databases](https://medium.com/@vikramlingam/stanford-relbench-benchmark-pits-neural-nets-against-sql-on-real-databases-107768616fba?source=rss-6c104cc85316------2)
+- [Googles DS-STAR Agent Handles Complete Data Science Tasks Forcing Role Shifts in 2026](https://medium.com/@vikramlingam/googles-ds-star-agent-handles-complete-data-science-tasks-forcing-role-shifts-in-2026-9a74597ebecb?source=rss-6c104cc85316------2)
+- [Machine Learning Builds Smarter Systems Through Self-Improvement Techniques](https://medium.com/@vikramlingam/machine-learning-builds-smarter-systems-through-self-improvement-techniques-4e765cab151b?source=rss-6c104cc85316------2)
+- [Stanford RELBENCH Benchmark Pits Neural Nets Against SQL on Real Databases](https://medium.com/data-science-collective/stanford-relbench-benchmark-pits-neural-nets-against-sql-on-real-databases-107768616fba?source=rss-6c104cc85316------2)
 - [Junevity Smashes Biotech Norms with OpenAI Cutting Obesity Drug Costs 2–6x](https://medium.com/@vikramlingam/junevity-smashes-biotech-norms-with-openai-cutting-obesity-drug-costs-2-6x-b590108c7a6f?source=rss-6c104cc85316------2)
 - [Googles Nested Learning Paradigm Excels at Continual Tasks on Long Contexts](https://medium.com/@vikramlingam/googles-nested-learning-paradigm-excels-at-continual-tasks-on-long-contexts-ef549c15c1b9?source=rss-6c104cc85316------2)
-- [Microsofts CORPGEN Benchmark Makes AI Agents Handle Corporate Drudgery](https://medium.com/@vikramlingam/microsofts-corpgen-benchmark-makes-ai-agents-handle-corporate-drudgery-7caf2b65ff16?source=rss-6c104cc85316------2)
-- [AI Floods Academic Conferences with Slop Crumbling Peer Review Foundations](https://medium.com/@vikramlingam/ai-floods-academic-conferences-with-slop-crumbling-peer-review-foundations-99870657e6fd?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
