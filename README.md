@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sequential Attention Cuts AI Model Sizes and Inference Time Without Accuracy Loss](https://medium.com/@vikramlingam/sequential-attention-cuts-ai-model-sizes-and-inference-time-without-accuracy-loss-adda08f96d87?source=rss-6c104cc85316------2)
+- [Fei-Fei Li World Labs Marble Generates Interactive 3D Worlds from Single Images](https://medium.com/@vikramlingam/fei-fei-li-world-labs-marble-generates-interactive-3d-worlds-from-single-images-fd9ef35de5aa?source=rss-6c104cc85316------2)
 - [Utonia Tops Hugging Face with Unified Encoder for All Point Clouds](https://medium.com/@vikramlingam/utonia-tops-hugging-face-with-unified-encoder-for-all-point-clouds-6e06071bc7f8?source=rss-6c104cc85316------2)
 - [Anthropic Claude Skills Break Data Scientists from Endless Prompt Engineering](https://medium.com/@vikramlingam/anthropic-claude-skills-break-data-scientists-from-endless-prompt-engineering-7130d81fc241?source=rss-6c104cc85316------2)
 - [Businesses Accelerate Shift to Fintechs for Cross-Border Payments in 2026](https://medium.com/@vikramlingam/businesses-accelerate-shift-to-fintechs-for-cross-border-payments-in-2026-b455954d7366?source=rss-6c104cc85316------2)
-- [AI Agents Evolve into Sophisticated Architectures for 2026 Enterprise Deployment](https://medium.com/@vikramlingam/ai-agents-evolve-into-sophisticated-architectures-for-2026-enterprise-deployment-c334efbad1ab?source=rss-6c104cc85316------2)
-- [Phantom Doubles Staff in 2025 to Build Crypto Superapp Challenging Coinbase](https://medium.com/@vikramlingam/phantom-doubles-staff-in-2025-to-build-crypto-superapp-challenging-coinbase-7d61d3529283?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
