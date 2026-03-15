@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lloyds Sells Customer Data and Axes IT Costs to Crown Itself UKs Biggest Fintech](https://medium.com/@vikramlingam/lloyds-sells-customer-data-and-axes-it-costs-to-crown-itself-uks-biggest-fintech-5f5d9577a170?source=rss-6c104cc85316------2)
 - [Mature Workforce AI Literacy Programs Double ROI to 42% in 2026](https://medium.com/@vikramlingam/mature-workforce-ai-literacy-programs-double-roi-to-42-in-2026-cd5ae4ff14f5?source=rss-6c104cc85316------2)
 - [AI Classifies Multi-Phase Material Structures from X-Ray Scattering in Benchmarks](https://medium.com/@vikramlingam/ai-classifies-multi-phase-material-structures-from-x-ray-scattering-in-benchmarks-850886bc9c9b?source=rss-6c104cc85316------2)
 - [Meta AI CWM Debuts First Open Weights LLM Purely for Code Research](https://medium.com/@vikramlingam/meta-ai-cwm-debuts-first-open-weights-llm-purely-for-code-research-1815a58547f8?source=rss-6c104cc85316------2)
 - [DataLads Fix Error Button Auto-Corrects Data Science Code in One Click](https://medium.com/@vikramlingam/datalads-fix-error-button-auto-corrects-data-science-code-in-one-click-d25d6880cd44?source=rss-6c104cc85316------2)
-- [Alien Science Samples Cognitively Inaccessible Research Directions from Idea Atoms](https://medium.com/@vikramlingam/alien-science-samples-cognitively-inaccessible-research-directions-from-idea-atoms-27018bcf6e35?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
