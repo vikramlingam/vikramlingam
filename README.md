@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kraken Tokenizes Stocks as Prediction Markets Hit $23.4 Billion February Volume](https://medium.com/@vikramlingam/kraken-tokenizes-stocks-as-prediction-markets-hit-23-4-billion-february-volume-c12f75b1a370?source=rss-6c104cc85316------2)
 - [Armenias Fintech Awakening Offers UK Firms Talent Edge Before US India Grab](https://medium.com/@vikramlingam/armenias-fintech-awakening-offers-uk-firms-talent-edge-before-us-india-grab-ab40c798c291?source=rss-6c104cc85316------2)
 - [Lloyds Sells Customer Data and Axes IT Costs to Crown Itself UKs Biggest Fintech](https://medium.com/@vikramlingam/lloyds-sells-customer-data-and-axes-it-costs-to-crown-itself-uks-biggest-fintech-5f5d9577a170?source=rss-6c104cc85316------2)
 - [Mature Workforce AI Literacy Programs Double ROI to 42% in 2026](https://medium.com/@vikramlingam/mature-workforce-ai-literacy-programs-double-roi-to-42-in-2026-cd5ae4ff14f5?source=rss-6c104cc85316------2)
 - [AI Classifies Multi-Phase Material Structures from X-Ray Scattering in Benchmarks](https://medium.com/@vikramlingam/ai-classifies-multi-phase-material-structures-from-x-ray-scattering-in-benchmarks-850886bc9c9b?source=rss-6c104cc85316------2)
-- [Meta AI CWM Debuts First Open Weights LLM Purely for Code Research](https://medium.com/@vikramlingam/meta-ai-cwm-debuts-first-open-weights-llm-purely-for-code-research-1815a58547f8?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
