@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenCode Outperforms Claude Code in Agentic Benchmarks for 2026 ML Pipelines](https://medium.com/@vikramlingam/opencode-outperforms-claude-code-in-agentic-benchmarks-for-2026-ml-pipelines-479f61fd805e?source=rss-6c104cc85316------2)
 - [Photo by JJ Ying on Unsplash](https://medium.com/@vikramlingam/photo-by-jj-ying-on-unsplash-6f743f2ce148?source=rss-6c104cc85316------2)
 - [FML-bench Evaluates AI Agents on Eight Fundamental ML Research Problems](https://medium.com/@vikramlingam/fml-bench-evaluates-ai-agents-on-eight-fundamental-ml-research-problems-b8458eedecb5?source=rss-6c104cc85316------2)
 - [LLMs Produce Inconsistent Data Analysis From Identical Prompts New Study Finds](https://medium.com/@vikramlingam/llms-produce-inconsistent-data-analysis-from-identical-prompts-new-study-finds-0c953030ceb7?source=rss-6c104cc85316------2)
 - [Kraken Tokenizes Stocks as Prediction Markets Hit $23.4 Billion February Volume](https://medium.com/@vikramlingam/kraken-tokenizes-stocks-as-prediction-markets-hit-23-4-billion-february-volume-c12f75b1a370?source=rss-6c104cc85316------2)
-- [Armenias Fintech Awakening Offers UK Firms Talent Edge Before US India Grab](https://medium.com/@vikramlingam/armenias-fintech-awakening-offers-uk-firms-talent-edge-before-us-india-grab-ab40c798c291?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
