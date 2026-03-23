@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [STOC 2026 Accepts Rare ML Paper Blending Complexity Data Structures Information Theory](https://medium.com/@vikramlingam/stoc-2026-accepts-rare-ml-paper-blending-complexity-data-structures-information-theory-59ed0d23b202?source=rss-6c104cc85316------2)
+- [Data Science Escape Hatch from Bursting AI Bubble in 2026](https://medium.com/@vikramlingam/data-science-escape-hatch-from-bursting-ai-bubble-in-2026-f6d1a86661fc?source=rss-6c104cc85316------2)
 - [Astrophysicist Roberto Trotta Warns AI Erodes Peer Review and Scientific Originality](https://medium.com/@vikramlingam/astrophysicist-roberto-trotta-warns-ai-erodes-peer-review-and-scientific-originality-ac1c621a9cea?source=rss-6c104cc85316------2)
 - [2026 Surveys Expose Data Leaders Skills Crisis in AI Output Interpretation](https://medium.com/@vikramlingam/2026-surveys-expose-data-leaders-skills-crisis-in-ai-output-interpretation-3606e8e7fd4f?source=rss-6c104cc85316------2)
 - [Google Nested Learning Nests Models for Continual AI Without Forgetting](https://medium.com/@vikramlingam/google-nested-learning-nests-models-for-continual-ai-without-forgetting-4a2231c274fc?source=rss-6c104cc85316------2)
-- [Google Titans and MIRAS Grant AI Persistent Memory Across Long Sessions](https://medium.com/@vikramlingam/google-titans-and-miras-grant-ai-persistent-memory-across-long-sessions-64070efc414e?source=rss-6c104cc85316------2)
-- [OpenCode Outperforms Claude Code in Agentic Benchmarks for 2026 ML Pipelines](https://medium.com/@vikramlingam/opencode-outperforms-claude-code-in-agentic-benchmarks-for-2026-ml-pipelines-479f61fd805e?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
