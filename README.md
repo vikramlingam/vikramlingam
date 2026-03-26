@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [ICLR 2026 Schrödinger Eigenfunctions Crack Long-Horizon Control RL Cannot Handle](https://medium.com/@vikramlingam/iclr-2026-schr%C3%B6dinger-eigenfunctions-crack-long-horizon-control-rl-cannot-handle-ab648b6a9535?source=rss-6c104cc85316------2)
+- [Distribution Aware Loss Functions Outperform MSE on Bimodal Biology Finance Data](https://medium.com/@vikramlingam/distribution-aware-loss-functions-outperform-mse-on-bimodal-biology-finance-data-7dd43dd3039c?source=rss-6c104cc85316------2)
+- [ICLR 2026 Schrödinger Eigenfunctions Crack Long-Horizon Control RL Cannot Handle](https://medium.com/data-science-collective/iclr-2026-schr%C3%B6dinger-eigenfunctions-crack-long-horizon-control-rl-cannot-handle-ab648b6a9535?source=rss-6c104cc85316------2)
 - [London Surpasses San Francisco New York as Top Fintech Hub Hedge Fund Reports](https://medium.com/@vikramlingam/london-surpasses-san-francisco-new-york-as-top-fintech-hub-hedge-fund-reports-3b65069c803f?source=rss-6c104cc85316------2)
 - [STOC 2026 Accepts Rare ML Paper Blending Complexity Data Structures Information Theory](https://medium.com/@vikramlingam/stoc-2026-accepts-rare-ml-paper-blending-complexity-data-structures-information-theory-59ed0d23b202?source=rss-6c104cc85316------2)
 - [Data Science Escape Hatch from Bursting AI Bubble in 2026](https://medium.com/@vikramlingam/data-science-escape-hatch-from-bursting-ai-bubble-in-2026-f6d1a86661fc?source=rss-6c104cc85316------2)
-- [Astrophysicist Roberto Trotta Warns AI Erodes Peer Review and Scientific Originality](https://medium.com/@vikramlingam/astrophysicist-roberto-trotta-warns-ai-erodes-peer-review-and-scientific-originality-ac1c621a9cea?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
