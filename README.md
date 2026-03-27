@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GNN LLM Hybrids Shift to Enterprise Graph Data at Production Scale 2026](https://medium.com/@vikramlingam/gnn-llm-hybrids-shift-to-enterprise-graph-data-at-production-scale-2026-4585e26dd241?source=rss-6c104cc85316------2)
+- [SPACE Study Challenges Hype on AI Coding Tools Developer Impact](https://medium.com/@vikramlingam/space-study-challenges-hype-on-ai-coding-tools-developer-impact-554e459ef346?source=rss-6c104cc85316------2)
 - [Veterans on $10,000 Gold Despite Bear Market Confirmation](https://medium.com/@vikramlingam/veterans-on-10-000-gold-despite-bear-market-confirmation-0293abe24038?source=rss-6c104cc85316------2)
 - [Distribution Aware Loss Functions Outperform MSE on Bimodal Biology Finance Data](https://medium.com/@vikramlingam/distribution-aware-loss-functions-outperform-mse-on-bimodal-biology-finance-data-7dd43dd3039c?source=rss-6c104cc85316------2)
 - [ICLR 2026 Schrödinger Eigenfunctions Crack Long-Horizon Control RL Cannot Handle](https://medium.com/@vikramlingam/iclr-2026-schr%C3%B6dinger-eigenfunctions-crack-long-horizon-control-rl-cannot-handle-ab648b6a9535?source=rss-6c104cc85316------2)
-- [London Surpasses San Francisco New York as Top Fintech Hub Hedge Fund Reports](https://medium.com/@vikramlingam/london-surpasses-san-francisco-new-york-as-top-fintech-hub-hedge-fund-reports-3b65069c803f?source=rss-6c104cc85316------2)
-- [STOC 2026 Accepts Rare ML Paper Blending Complexity Data Structures Information Theory](https://medium.com/@vikramlingam/stoc-2026-accepts-rare-ml-paper-blending-complexity-data-structures-information-theory-59ed0d23b202?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
