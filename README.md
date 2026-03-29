@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [arXiv Cuts Cornell Ties Launches Independent Nonprofit Amid ML Paper Explosion](https://medium.com/@vikramlingam/arxiv-cuts-cornell-ties-launches-independent-nonprofit-amid-ml-paper-explosion-75d84265b181?source=rss-6c104cc85316------2)
+- [OpenAI Reviews 48000 Answers Tool-Augmented AI Tops 16 Scientific Tasks](https://medium.com/@vikramlingam/openai-reviews-48000-answers-tool-augmented-ai-tops-16-scientific-tasks-6f3add4ca6d9?source=rss-6c104cc85316------2)
 - [GNN LLM Hybrids Shift to Enterprise Graph Data at Production Scale 2026](https://medium.com/@vikramlingam/gnn-llm-hybrids-shift-to-enterprise-graph-data-at-production-scale-2026-4585e26dd241?source=rss-6c104cc85316------2)
 - [SPACE Study Challenges Hype on AI Coding Tools Developer Impact](https://medium.com/@vikramlingam/space-study-challenges-hype-on-ai-coding-tools-developer-impact-554e459ef346?source=rss-6c104cc85316------2)
 - [Veterans on $10,000 Gold Despite Bear Market Confirmation](https://medium.com/@vikramlingam/veterans-on-10-000-gold-despite-bear-market-confirmation-0293abe24038?source=rss-6c104cc85316------2)
-- [Distribution Aware Loss Functions Outperform MSE on Bimodal Biology Finance Data](https://medium.com/@vikramlingam/distribution-aware-loss-functions-outperform-mse-on-bimodal-biology-finance-data-7dd43dd3039c?source=rss-6c104cc85316------2)
-- [ICLR 2026 Schrödinger Eigenfunctions Crack Long-Horizon Control RL Cannot Handle](https://medium.com/@vikramlingam/iclr-2026-schr%C3%B6dinger-eigenfunctions-crack-long-horizon-control-rl-cannot-handle-ab648b6a9535?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
