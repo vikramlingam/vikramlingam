@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kaggle Dataset Tracks 50000 AI Data Science Jobs Revealing Stable Data Roles](https://medium.com/@vikramlingam/kaggle-dataset-tracks-50000-ai-data-science-jobs-revealing-stable-data-roles-dbf811e8d2cc?source=rss-6c104cc85316------2)
 - [FTC Reports $15.9 Billion Fraud Losses Despite 2026 Fintech Funding Surge](https://medium.com/@vikramlingam/ftc-reports-15-9-billion-fraud-losses-despite-2026-fintech-funding-surge-4521c36c1ab0?source=rss-6c104cc85316------2)
 - [2026 Scientific ML Benchmarks Confirm Scientists Struggle Picking Dataset Algorithms](https://medium.com/@vikramlingam/2026-scientific-ml-benchmarks-confirm-scientists-struggle-picking-dataset-algorithms-1917447359d6?source=rss-6c104cc85316------2)
 - [arXiv Preprint Rejects Singular Superintelligence for Diverse AI Teams](https://medium.com/@vikramlingam/arxiv-preprint-rejects-singular-superintelligence-for-diverse-ai-teams-4447dfaf1a90?source=rss-6c104cc85316------2)
 - [Forbes Flags Unsustainable Fintech Bubble Despite 2026 Hottest Startups List Brex Deal](https://medium.com/@vikramlingam/forbes-flags-unsustainable-fintech-bubble-despite-2026-hottest-startups-list-brex-deal-5537d994c506?source=rss-6c104cc85316------2)
-- [What I Am Doing to Stay Relevant as a Senior Analytics Consultant in 2026](https://medium.com/@vikramlingam/what-i-am-doing-to-stay-relevant-as-a-senior-analytics-consultant-in-2026-d65e93c45adc?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
