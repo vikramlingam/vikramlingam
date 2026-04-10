@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Klarna Leads Fintechs Stealing Deposits from UK High Street Banks](https://medium.com/@vikramlingam/klarna-leads-fintechs-stealing-deposits-from-uk-high-street-banks-f8e75d2d0f6b?source=rss-6c104cc85316------2)
+- [Smaller Task-Specific ML Models Outpace Giant Generalists in 2026 Deployments](https://medium.com/@vikramlingam/smaller-task-specific-ml-models-outpace-giant-generalists-in-2026-deployments-d2a7e895d0b0?source=rss-6c104cc85316------2)
 - [OpenAI Internal Data Agent Handles Complex Queries Without Human Oversight](https://medium.com/@vikramlingam/openai-internal-data-agent-handles-complex-queries-without-human-oversight-91ef98ebce3b?source=rss-6c104cc85316------2)
 - [Junior Data Scientists Overlook 50000 Postings by Seeing One Job Not Dozens](https://medium.com/@vikramlingam/junior-data-scientists-overlook-50000-postings-by-seeing-one-job-not-dozens-5fb95ab13f49?source=rss-6c104cc85316------2)
 - [Google Nested Learning Outperforms Titans Samba on Reasoning Without Forgetting Old Tasks](https://medium.com/@vikramlingam/google-nested-learning-outperforms-titans-samba-on-reasoning-without-forgetting-old-tasks-ce8048255f36?source=rss-6c104cc85316------2)
-- [Meta AI Souper-Model Tops Omnilingual Tasks with Basic Arithmetic](https://medium.com/@vikramlingam/meta-ai-souper-model-tops-omnilingual-tasks-with-basic-arithmetic-13d25cd16af2?source=rss-6c104cc85316------2)
-- [YC Fintech Graveyard Exposes Premature Launches Killing Accelerator Backed Stars](https://medium.com/@vikramlingam/yc-fintech-graveyard-exposes-premature-launches-killing-accelerator-backed-stars-61acbee46c6e?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
