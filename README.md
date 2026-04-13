@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DeepMind Abstraction Fallacy Paper Challenges Sentient AI Hype 2026](https://medium.com/@vikramlingam/deepmind-abstraction-fallacy-paper-challenges-sentient-ai-hype-2026-819e7fe2a844?source=rss-6c104cc85316------2)
+- [9fin Reaches $1.3 Billion Valuation After $170 Million Raise in Fintech Surge](https://medium.com/@vikramlingam/9fin-reaches-1-3-billion-valuation-after-170-million-raise-in-fintech-surge-a5d85ce76d58?source=rss-6c104cc85316------2)
 - [Google Sequential Attention Approximates Full Transformer Attention Sequentially with Huge…](https://medium.com/@vikramlingam/google-sequential-attention-approximates-full-transformer-attention-sequentially-with-huge-b403f20ba58e?source=rss-6c104cc85316------2)
 - [Agentic AI Brings Autonomous Moral Choices into Doctor-Patient Dynamics](https://medium.com/@vikramlingam/agentic-ai-brings-autonomous-moral-choices-into-doctor-patient-dynamics-73d71cd76ada?source=rss-6c104cc85316------2)
 - [Klarna Leads Fintechs Stealing Deposits from UK High Street Banks](https://medium.com/@vikramlingam/klarna-leads-fintechs-stealing-deposits-from-uk-high-street-banks-f8e75d2d0f6b?source=rss-6c104cc85316------2)
-- [Smaller Task-Specific ML Models Outpace Giant Generalists in 2026 Deployments](https://medium.com/@vikramlingam/smaller-task-specific-ml-models-outpace-giant-generalists-in-2026-deployments-d2a7e895d0b0?source=rss-6c104cc85316------2)
-- [OpenAI Internal Data Agent Handles Complex Queries Without Human Oversight](https://medium.com/@vikramlingam/openai-internal-data-agent-handles-complex-queries-without-human-oversight-91ef98ebce3b?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
