@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Financial Officials Warn Latest AI Models Pose Existential Threat to Global Banking](https://medium.com/@vikramlingam/financial-officials-warn-latest-ai-models-pose-existential-threat-to-global-banking-278fa7b89595?source=rss-6c104cc85316------2)
+- [AI Tools Democratize Private Equity and Real Estate for Retail Portfolios](https://medium.com/@vikramlingam/ai-tools-democratize-private-equity-and-real-estate-for-retail-portfolios-ca6a200f4491?source=rss-6c104cc85316------2)
 - [Google VP Warns Two AI Startup Categories Face Extinction in Sales](https://medium.com/@vikramlingam/google-vp-warns-two-ai-startup-categories-face-extinction-in-sales-c6f1fb15e553?source=rss-6c104cc85316------2)
 - [FML-bench Tests AI Agents on Real ML Research Codebases Beyond Kaggle Engineering](https://medium.com/@vikramlingam/fml-bench-tests-ai-agents-on-real-ml-research-codebases-beyond-kaggle-engineering-19a96cdaed80?source=rss-6c104cc85316------2)
 - [Alibaba Qwen2.5–1.5B-Instruct Racks Up 8.85 Million Downloads in 2026](https://medium.com/@vikramlingam/alibaba-qwen2-5-1-5b-instruct-racks-up-8-85-million-downloads-in-2026-358d941e1f7c?source=rss-6c104cc85316------2)
-- [Microsoft SPACE Framework Exposes AI Wins for Developers Amid Team Strains](https://medium.com/@vikramlingam/microsoft-space-framework-exposes-ai-wins-for-developers-amid-team-strains-5eae51c23558?source=rss-6c104cc85316------2)
-- [DeepMind Abstraction Fallacy Paper Challenges Sentient AI Hype 2026](https://medium.com/@vikramlingam/deepmind-abstraction-fallacy-paper-challenges-sentient-ai-hype-2026-819e7fe2a844?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
