@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [UK Regulators Scramble to Evaluate Anthropic AI Risks in Finance](https://medium.com/@vikramlingam/uk-regulators-scramble-to-evaluate-anthropic-ai-risks-in-finance-b10c2292c569?source=rss-6c104cc85316------2)
+- [Anthropic February 2026 Report Spotlights Sabotage as Key AI Autonomy Risk](https://medium.com/@vikramlingam/anthropic-february-2026-report-spotlights-sabotage-as-key-ai-autonomy-risk-dc5aad6e9bef?source=rss-6c104cc85316------2)
 - [Financial Officials Warn Latest AI Models Pose Existential Threat to Global Banking](https://medium.com/@vikramlingam/financial-officials-warn-latest-ai-models-pose-existential-threat-to-global-banking-278fa7b89595?source=rss-6c104cc85316------2)
 - [AI Tools Democratize Private Equity and Real Estate for Retail Portfolios](https://medium.com/@vikramlingam/ai-tools-democratize-private-equity-and-real-estate-for-retail-portfolios-ca6a200f4491?source=rss-6c104cc85316------2)
 - [Google VP Warns Two AI Startup Categories Face Extinction in Sales](https://medium.com/@vikramlingam/google-vp-warns-two-ai-startup-categories-face-extinction-in-sales-c6f1fb15e553?source=rss-6c104cc85316------2)
-- [FML-bench Tests AI Agents on Real ML Research Codebases Beyond Kaggle Engineering](https://medium.com/@vikramlingam/fml-bench-tests-ai-agents-on-real-ml-research-codebases-beyond-kaggle-engineering-19a96cdaed80?source=rss-6c104cc85316------2)
-- [Alibaba Qwen2.5–1.5B-Instruct Racks Up 8.85 Million Downloads in 2026](https://medium.com/@vikramlingam/alibaba-qwen2-5-1-5b-instruct-racks-up-8-85-million-downloads-in-2026-358d941e1f7c?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
