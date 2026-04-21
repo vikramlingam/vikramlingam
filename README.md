@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Over-Reliance Deskills Low-Income Workers Faster Than High-Skill Economies Adapt](https://medium.com/@vikramlingam/ai-over-reliance-deskills-low-income-workers-faster-than-high-skill-economies-adapt-d763833d89ba?source=rss-6c104cc85316------2)
+- [SuperLocalMemory V3.3 Applies Brain Forgetting to Build Lean AI Agent Memory](https://medium.com/@vikramlingam/superlocalmemory-v3-3-applies-brain-forgetting-to-build-lean-ai-agent-memory-68effa4562c7?source=rss-6c104cc85316------2)
 - [UK Regulators Scramble to Evaluate Anthropic AI Risks in Finance](https://medium.com/@vikramlingam/uk-regulators-scramble-to-evaluate-anthropic-ai-risks-in-finance-b10c2292c569?source=rss-6c104cc85316------2)
 - [Anthropic February 2026 Report Spotlights Sabotage as Key AI Autonomy Risk](https://medium.com/@vikramlingam/anthropic-february-2026-report-spotlights-sabotage-as-key-ai-autonomy-risk-dc5aad6e9bef?source=rss-6c104cc85316------2)
 - [Financial Officials Warn Latest AI Models Pose Existential Threat to Global Banking](https://medium.com/@vikramlingam/financial-officials-warn-latest-ai-models-pose-existential-threat-to-global-banking-278fa7b89595?source=rss-6c104cc85316------2)
-- [AI Tools Democratize Private Equity and Real Estate for Retail Portfolios](https://medium.com/@vikramlingam/ai-tools-democratize-private-equity-and-real-estate-for-retail-portfolios-ca6a200f4491?source=rss-6c104cc85316------2)
-- [Google VP Warns Two AI Startup Categories Face Extinction in Sales](https://medium.com/@vikramlingam/google-vp-warns-two-ai-startup-categories-face-extinction-in-sales-c6f1fb15e553?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
