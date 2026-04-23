@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Junevity Uses OpenAI to Identify 20 Parkinson’s Targets at Biotech Speed Records](https://medium.com/@vikramlingam/junevity-uses-openai-to-identify-20-parkinsons-targets-at-biotech-speed-records-c84f254fa44f?source=rss-6c104cc85316------2)
+- [GoCardless Posts First Profitable Quarter Defying Fintech Cash Burn Norms](https://medium.com/@vikramlingam/gocardless-posts-first-profitable-quarter-defying-fintech-cash-burn-norms-526509b4dec1?source=rss-6c104cc85316------2)
 - [AI Over-Reliance Deskills Low-Income Workers Faster Than High-Skill Economies Adapt](https://medium.com/@vikramlingam/ai-over-reliance-deskills-low-income-workers-faster-than-high-skill-economies-adapt-d763833d89ba?source=rss-6c104cc85316------2)
 - [SuperLocalMemory V3.3 Applies Brain Forgetting to Build Lean AI Agent Memory](https://medium.com/@vikramlingam/superlocalmemory-v3-3-applies-brain-forgetting-to-build-lean-ai-agent-memory-68effa4562c7?source=rss-6c104cc85316------2)
 - [UK Regulators Scramble to Evaluate Anthropic AI Risks in Finance](https://medium.com/@vikramlingam/uk-regulators-scramble-to-evaluate-anthropic-ai-risks-in-finance-b10c2292c569?source=rss-6c104cc85316------2)
-- [Anthropic February 2026 Report Spotlights Sabotage as Key AI Autonomy Risk](https://medium.com/@vikramlingam/anthropic-february-2026-report-spotlights-sabotage-as-key-ai-autonomy-risk-dc5aad6e9bef?source=rss-6c104cc85316------2)
-- [Financial Officials Warn Latest AI Models Pose Existential Threat to Global Banking](https://medium.com/@vikramlingam/financial-officials-warn-latest-ai-models-pose-existential-threat-to-global-banking-278fa7b89595?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
