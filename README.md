@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SaaS Product Management Emerges as Top Path for Data Pros Maximum Impact 2026](https://medium.com/@vikramlingam/saas-product-management-emerges-as-top-path-for-data-pros-maximum-impact-2026-19fae717cf1b?source=rss-6c104cc85316------2)
+- [Researcher Ryu Fixes AI Proof Errors Mimicking Human Teamwork in Labs](https://medium.com/@vikramlingam/researcher-ryu-fixes-ai-proof-errors-mimicking-human-teamwork-in-labs-06c7336bff48?source=rss-6c104cc85316------2)
 - [ACL 2026 Personalized Benchmarking Paper Tailors LLM Tests to User Tastes](https://medium.com/@vikramlingam/acl-2026-personalized-benchmarking-paper-tailors-llm-tests-to-user-tastes-dc7db0aed3a8?source=rss-6c104cc85316------2)
 - [Hybrid Ensembles Lift Fault Diagnosis Accuracy 2.9 Percent on CSTR Benchmarks](https://medium.com/@vikramlingam/hybrid-ensembles-lift-fault-diagnosis-accuracy-2-9-percent-on-cstr-benchmarks-e9b6e4e9e578?source=rss-6c104cc85316------2)
 - [Junevity Uses OpenAI to Identify 20 Parkinson’s Targets at Biotech Speed Records](https://medium.com/@vikramlingam/junevity-uses-openai-to-identify-20-parkinsons-targets-at-biotech-speed-records-c84f254fa44f?source=rss-6c104cc85316------2)
-- [GoCardless Posts First Profitable Quarter Defying Fintech Cash Burn Norms](https://medium.com/@vikramlingam/gocardless-posts-first-profitable-quarter-defying-fintech-cash-burn-norms-526509b4dec1?source=rss-6c104cc85316------2)
-- [AI Over-Reliance Deskills Low-Income Workers Faster Than High-Skill Economies Adapt](https://medium.com/@vikramlingam/ai-over-reliance-deskills-low-income-workers-faster-than-high-skill-economies-adapt-d763833d89ba?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
