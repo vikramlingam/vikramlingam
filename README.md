@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Predicts Only Small AI Discoveries in 2026 Before 2028 Breakthroughs](https://medium.com/@vikramlingam/openai-predicts-only-small-ai-discoveries-in-2026-before-2028-breakthroughs-22ef8fcc0a57?source=rss-6c104cc85316------2)
 - [Battery Benchmark Proves Centroid Method Beats Intensive ML Anomaly Detectors](https://medium.com/@vikramlingam/battery-benchmark-proves-centroid-method-beats-intensive-ml-anomaly-detectors-af20acb1c997?source=rss-6c104cc85316------2)
 - [Claude Skills and Subagents Free Data Scientists from Endless Prompt Tweaks](https://medium.com/@vikramlingam/claude-skills-and-subagents-free-data-scientists-from-endless-prompt-tweaks-aef89ffec942?source=rss-6c104cc85316------2)
 - [Firenze Raises £6m to Extend Lombard Lending Beyond Ultra Wealthy Circles](https://medium.com/@vikramlingam/firenze-raises-6m-to-extend-lombard-lending-beyond-ultra-wealthy-circles-bcd3090ea11c?source=rss-6c104cc85316------2)
 - [SaaS Product Management Emerges as Top Path for Data Pros Maximum Impact 2026](https://medium.com/@vikramlingam/saas-product-management-emerges-as-top-path-for-data-pros-maximum-impact-2026-19fae717cf1b?source=rss-6c104cc85316------2)
-- [Researcher Ryu Fixes AI Proof Errors Mimicking Human Teamwork in Labs](https://medium.com/@vikramlingam/researcher-ryu-fixes-ai-proof-errors-mimicking-human-teamwork-in-labs-06c7336bff48?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
