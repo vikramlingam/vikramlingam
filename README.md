@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers Favor Teams of Specialized AIs Over Single Super Models](https://medium.com/@vikramlingam/researchers-favor-teams-of-specialized-ais-over-single-super-models-ec1bb835fa28?source=rss-6c104cc85316------2)
+- [Agentic AI Delivers Structural ROI Telecoms Crave Past Generative Productivity](https://medium.com/@vikramlingam/agentic-ai-delivers-structural-roi-telecoms-crave-past-generative-productivity-d68493b29b14?source=rss-6c104cc85316------2)
 - [LemFi Commits $100m to UK with HQ Shift Targeting Remittance Incumbents](https://medium.com/@vikramlingam/lemfi-commits-100m-to-uk-with-hq-shift-targeting-remittance-incumbents-f813e8d39459?source=rss-6c104cc85316------2)
 - [arXiv Feb 2026 Preprint Quantifies Neural Nets with Effective Degrees of Freedom](https://medium.com/@vikramlingam/arxiv-feb-2026-preprint-quantifies-neural-nets-with-effective-degrees-of-freedom-d303c315d52e?source=rss-6c104cc85316------2)
 - [OpenAI Predicts Only Small AI Discoveries in 2026 Before 2028 Breakthroughs](https://medium.com/@vikramlingam/openai-predicts-only-small-ai-discoveries-in-2026-before-2028-breakthroughs-22ef8fcc0a57?source=rss-6c104cc85316------2)
-- [Battery Benchmark Proves Centroid Method Beats Intensive ML Anomaly Detectors](https://medium.com/@vikramlingam/battery-benchmark-proves-centroid-method-beats-intensive-ml-anomaly-detectors-af20acb1c997?source=rss-6c104cc85316------2)
-- [Claude Skills and Subagents Free Data Scientists from Endless Prompt Tweaks](https://medium.com/@vikramlingam/claude-skills-and-subagents-free-data-scientists-from-endless-prompt-tweaks-aef89ffec942?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
