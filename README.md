@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Geometric Canary Predicts Steerability Loss and Drift in Neural Representations](https://medium.com/@vikramlingam/geometric-canary-predicts-steerability-loss-and-drift-in-neural-representations-f9a713d69423?source=rss-6c104cc85316------2)
+- [Finextra-FICO Survey Finds AI Erodes Moral Barriers Expanding Fraud Pool Banks Counter with…](https://medium.com/@vikramlingam/finextra-fico-survey-finds-ai-erodes-moral-barriers-expanding-fraud-pool-banks-counter-with-0e6c07b49dd2?source=rss-6c104cc85316------2)
 - [Gemini Deep Think Solves Erdős-652 654 and 1040 Fully Autonomously at Level 0](https://medium.com/@vikramlingam/gemini-deep-think-solves-erd%C5%91s-652-654-and-1040-fully-autonomously-at-level-0-9c67a38db739?source=rss-6c104cc85316------2)
 - [Airtel Africa Targets $2 Billion London IPO for 50 Million User Mobile Money Unit](https://medium.com/@vikramlingam/airtel-africa-targets-2-billion-london-ipo-for-50-million-user-mobile-money-unit-17625137aba2?source=rss-6c104cc85316------2)
 - [Veteran Data Scientists Flood Authors with 2026 Career Doubts Beyond Junior Worries](https://medium.com/@vikramlingam/veteran-data-scientists-flood-authors-with-2026-career-doubts-beyond-junior-worries-01c1ae23c3a2?source=rss-6c104cc85316------2)
-- [Researchers Favor Teams of Specialized AIs Over Single Super Models](https://medium.com/@vikramlingam/researchers-favor-teams-of-specialized-ais-over-single-super-models-ec1bb835fa28?source=rss-6c104cc85316------2)
-- [Agentic AI Delivers Structural ROI Telecoms Crave Past Generative Productivity](https://medium.com/@vikramlingam/agentic-ai-delivers-structural-roi-telecoms-crave-past-generative-productivity-d68493b29b14?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
