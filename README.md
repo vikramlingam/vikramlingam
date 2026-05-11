@@ -30,9 +30,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stanford AI Index 2026 Exposes Top Models Clock Reading Failures](https://medium.com/@vikramlingam/stanford-ai-index-2026-exposes-top-models-clock-reading-failures-93d9168377c7?source=rss-6c104cc85316------2)
+- [PhD Thesis Sketch Exposes Data Science’s Eroded Scientific Rigor Ahead of 2026 AI Surge](https://medium.com/@vikramlingam/phd-thesis-sketch-exposes-data-sciences-eroded-scientific-rigor-ahead-of-2026-ai-surge-7f091183dc41?source=rss-6c104cc85316------2)
 - [Geometric Canary Predicts Steerability Loss and Drift in Neural Representations](https://medium.com/@vikramlingam/geometric-canary-predicts-steerability-loss-and-drift-in-neural-representations-f9a713d69423?source=rss-6c104cc85316------2)
 - [Finextra-FICO Survey Finds AI Erodes Moral Barriers Expanding Fraud Pool Banks Counter with…](https://medium.com/@vikramlingam/finextra-fico-survey-finds-ai-erodes-moral-barriers-expanding-fraud-pool-banks-counter-with-0e6c07b49dd2?source=rss-6c104cc85316------2)
 - [Gemini Deep Think Solves Erdős-652 654 and 1040 Fully Autonomously at Level 0](https://medium.com/@vikramlingam/gemini-deep-think-solves-erd%C5%91s-652-654-and-1040-fully-autonomously-at-level-0-9c67a38db739?source=rss-6c104cc85316------2)
-- [Airtel Africa Targets $2 Billion London IPO for 50 Million User Mobile Money Unit](https://medium.com/@vikramlingam/airtel-africa-targets-2-billion-london-ipo-for-50-million-user-mobile-money-unit-17625137aba2?source=rss-6c104cc85316------2)
-- [Veteran Data Scientists Flood Authors with 2026 Career Doubts Beyond Junior Worries](https://medium.com/@vikramlingam/veteran-data-scientists-flood-authors-with-2026-career-doubts-beyond-junior-worries-01c1ae23c3a2?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
