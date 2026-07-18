@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### 📰 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic Usage Data Reveals A Hidden Biological Bottleneck In Workplace Productivity](https://medium.com/@vikramlingam/anthropic-usage-data-reveals-a-hidden-biological-bottleneck-in-workplace-productivity-008b28c6f811?source=rss-6c104cc85316------2)
 - [Snowflake and Databricks Swallow Niche SaaS Tools Forcing Data Stack Overhaul](https://medium.com/@vikramlingam/snowflake-and-databricks-swallow-niche-saas-tools-forcing-data-stack-overhaul-515fbd7573ae?source=rss-6c104cc85316------2)
 - [Stanford AI Index 2026 Exposes Top Models Clock Reading Failures](https://medium.com/@vikramlingam/stanford-ai-index-2026-exposes-top-models-clock-reading-failures-93d9168377c7?source=rss-6c104cc85316------2)
 - [PhD Thesis Sketch Exposes Data Science’s Eroded Scientific Rigor Ahead of 2026 AI Surge](https://medium.com/@vikramlingam/phd-thesis-sketch-exposes-data-sciences-eroded-scientific-rigor-ahead-of-2026-ai-surge-7f091183dc41?source=rss-6c104cc85316------2)
 - [Geometric Canary Predicts Steerability Loss and Drift in Neural Representations](https://medium.com/@vikramlingam/geometric-canary-predicts-steerability-loss-and-drift-in-neural-representations-f9a713d69423?source=rss-6c104cc85316------2)
-- [Finextra-FICO Survey Finds AI Erodes Moral Barriers Expanding Fraud Pool Banks Counter with…](https://medium.com/@vikramlingam/finextra-fico-survey-finds-ai-erodes-moral-barriers-expanding-fraud-pool-banks-counter-with-0e6c07b49dd2?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
