@@ -26,7 +26,6 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 * **LinkedIn:** [https://www.linkedin.com/in/vikramlingam/]
 * **Medium:** [https://medium.com/@vikramlingam]
 * **YouTube:** [https://www.youtube.com/@vikramlingam]
-* **Portfolio:** [https://www.vikramlingam.com] 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
