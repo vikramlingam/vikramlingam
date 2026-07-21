@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic Claude Demo Shows Agents Running Complete Research Projects](https://medium.com/@vikramlingam/anthropic-claude-demo-shows-agents-running-complete-research-projects-3eade9b8f76e?source=rss-6c104cc85316------2)
+- [As The AI Bubble Deflates Data Science Becomes The Escape Hatch](https://medium.com/@vikramlingam/as-the-ai-bubble-deflates-data-science-becomes-the-escape-hatch-00e92ede6f45?source=rss-6c104cc85316------2)
 - [AI Agents Still Cannot Do a Machine Learning PhD’s First Week of Work](https://medium.com/@vikramlingam/ai-agents-still-cannot-do-a-machine-learning-phds-first-week-of-work-bc1cf1bf1f58?source=rss-6c104cc85316------2)
 - [Wise’s AML Probe Signals the End of Europe’s Fintech Regulatory Free Ride](https://medium.com/@vikramlingam/wises-aml-probe-signals-the-end-of-europe-s-fintech-regulatory-free-ride-5771e463c2ca?source=rss-6c104cc85316------2)
 - [Anthropic Usage Data Reveals A Hidden Biological Bottleneck In Workplace Productivity](https://medium.com/@vikramlingam/anthropic-usage-data-reveals-a-hidden-biological-bottleneck-in-workplace-productivity-008b28c6f811?source=rss-6c104cc85316------2)
-- [Snowflake and Databricks Swallow Niche SaaS Tools Forcing Data Stack Overhaul](https://medium.com/@vikramlingam/snowflake-and-databricks-swallow-niche-saas-tools-forcing-data-stack-overhaul-515fbd7573ae?source=rss-6c104cc85316------2)
-- [Stanford AI Index 2026 Exposes Top Models Clock Reading Failures](https://medium.com/@vikramlingam/stanford-ai-index-2026-exposes-top-models-clock-reading-failures-93d9168377c7?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
