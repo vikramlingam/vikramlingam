@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Medical AI Pushes Short Term Gains Over Patient Safety Needs](https://medium.com/@vikramlingam/medical-ai-pushes-short-term-gains-over-patient-safety-needs-68830d4815f3?source=rss-6c104cc85316------2)
+- [Benchmarks Expose AI Limits on Data Science Workflows](https://medium.com/@vikramlingam/benchmarks-expose-ai-limits-on-data-science-workflows-ed52a0cf24fd?source=rss-6c104cc85316------2)
 - [FLAGG and Nested Flags Tackle Hierarchical Graphs Efficiently](https://medium.com/@vikramlingam/flagg-and-nested-flags-tackle-hierarchical-graphs-efficiently-80a64910a310?source=rss-6c104cc85316------2)
 - [Philosophers Challenge Single Model Dominance in Current AI Research](https://medium.com/@vikramlingam/philosophers-challenge-single-model-dominance-in-current-ai-research-6f6902c22dfb?source=rss-6c104cc85316------2)
 - [Anthropic Claude Demo Shows Agents Running Complete Research Projects](https://medium.com/@vikramlingam/anthropic-claude-demo-shows-agents-running-complete-research-projects-3eade9b8f76e?source=rss-6c104cc85316------2)
-- [As The AI Bubble Deflates Data Science Becomes The Escape Hatch](https://medium.com/@vikramlingam/as-the-ai-bubble-deflates-data-science-becomes-the-escape-hatch-00e92ede6f45?source=rss-6c104cc85316------2)
-- [AI Agents Still Cannot Do a Machine Learning PhD’s First Week of Work](https://medium.com/@vikramlingam/ai-agents-still-cannot-do-a-machine-learning-phds-first-week-of-work-bc1cf1bf1f58?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
