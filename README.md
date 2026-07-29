@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [European Fintechs Turn AML Probes Into Cross Border Licensing Assets](https://medium.com/@vikramlingam/european-fintechs-turn-aml-probes-into-cross-border-licensing-assets-a4420f354013?source=rss-6c104cc85316------2)
+- [Position Paper Demands Conceptual Ideas Drive Machine Learning Research](https://medium.com/@vikramlingam/position-paper-demands-conceptual-ideas-drive-machine-learning-research-1d9a38058d15?source=rss-6c104cc85316------2)
 - [Microsoft Pilot Logs Expose Undocumented Micro Decisions in Data Workflows](https://medium.com/@vikramlingam/microsoft-pilot-logs-expose-undocumented-micro-decisions-in-data-workflows-36aabe8b78c3?source=rss-6c104cc85316------2)
 - [AI Optimists Warn Tools Shrink Range of Scientific Questions](https://medium.com/@vikramlingam/ai-optimists-warn-tools-shrink-range-of-scientific-questions-6ce54a002f8f?source=rss-6c104cc85316------2)
 - [Wise Probe Turns AML Audits Into Cross Border Licensing Assets](https://medium.com/@vikramlingam/wise-probe-turns-aml-audits-into-cross-border-licensing-assets-1668bcc60330?source=rss-6c104cc85316------2)
-- [Wise Converts AML Regulatory Scrutiny Into Cross Border Expansion Tool](https://medium.com/@vikramlingam/wise-converts-aml-regulatory-scrutiny-into-cross-border-expansion-tool-c2f322bd0161?source=rss-6c104cc85316------2)
-- [Google Frozen Prediction Method Speeds Gemini Nano on Pixel Hardware](https://medium.com/@vikramlingam/google-frozen-prediction-method-speeds-gemini-nano-on-pixel-hardware-204d2970dfd6?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
