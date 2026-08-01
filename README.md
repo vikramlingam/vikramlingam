@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SoFi Shows Fintech Growth Alone No Longer Sways Investors](https://medium.com/@vikramlingam/sofi-shows-fintech-growth-alone-no-longer-sways-investors-a051f3953317?source=rss-6c104cc85316------2)
+- [Google Sequential Attention Shrinks Models for On Device Deployment](https://medium.com/@vikramlingam/google-sequential-attention-shrinks-models-for-on-device-deployment-5c7597fef8eb?source=rss-6c104cc85316------2)
 - [February 2026 Model Releases Underscore International Safety Report Gaps](https://medium.com/@vikramlingam/february-2026-model-releases-underscore-international-safety-report-gaps-18e177e0ac13?source=rss-6c104cc85316------2)
 - [Rising Financing Costs Challenge Even Wealthy AI Data Center Builders](https://medium.com/@vikramlingam/rising-financing-costs-challenge-even-wealthy-ai-data-center-builders-735e899f6213?source=rss-6c104cc85316------2)
 - [European Fintechs Turn AML Probes Into Cross Border Licensing Assets](https://medium.com/@vikramlingam/european-fintechs-turn-aml-probes-into-cross-border-licensing-assets-a4420f354013?source=rss-6c104cc85316------2)
-- [Position Paper Demands Conceptual Ideas Drive Machine Learning Research](https://medium.com/@vikramlingam/position-paper-demands-conceptual-ideas-drive-machine-learning-research-1d9a38058d15?source=rss-6c104cc85316------2)
-- [Microsoft Pilot Logs Expose Undocumented Micro Decisions in Data Workflows](https://medium.com/@vikramlingam/microsoft-pilot-logs-expose-undocumented-micro-decisions-in-data-workflows-36aabe8b78c3?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
