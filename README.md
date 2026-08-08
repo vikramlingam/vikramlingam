@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dataiku Free Certifications Commoditize Entry Level Data Science Work](https://medium.com/@vikramlingam/dataiku-free-certifications-commoditize-entry-level-data-science-work-1a1c04756482?source=rss-6c104cc85316------2)
+- [Kaiming He Paper Shows Tokenizers Generate Text Without Training](https://medium.com/@vikramlingam/kaiming-he-paper-shows-tokenizers-generate-text-without-training-362a780248f2?source=rss-6c104cc85316------2)
 - [Hyperscalers Four Hundred Billion Bet Opens Data Science Escape Hatch](https://medium.com/@vikramlingam/hyperscalers-four-hundred-billion-bet-opens-data-science-escape-hatch-81cfdefbf9ce?source=rss-6c104cc85316------2)
 - [Claude’s April 2026 Run Marks Shift to Independent AI Research](https://medium.com/@vikramlingam/claudes-april-2026-run-marks-shift-to-independent-ai-research-11505c54350a?source=rss-6c104cc85316------2)
 - [PDEBENCH Exposes Persistent Failures in Scientific Machine Learning Inverse Modeling](https://medium.com/@vikramlingam/pdebench-exposes-persistent-failures-in-scientific-machine-learning-inverse-modeling-1b8529eb47e2?source=rss-6c104cc85316------2)
-- [RADAR 2026 Shifts Emphasis to Hybrid Human AI Teams](https://medium.com/@vikramlingam/radar-2026-shifts-emphasis-to-hybrid-human-ai-teams-83062ff719ea?source=rss-6c104cc85316------2)
-- [Distributed AI Agent Teams Offer Stronger Path Than Single Frontier Models](https://medium.com/@vikramlingam/distributed-ai-agent-teams-offer-stronger-path-than-single-frontier-models-0e0977463681?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
