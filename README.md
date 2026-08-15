@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Cursor Deal Targets Enterprise Coding Contracts With Lower Costs](https://medium.com/@vikramlingam/spacex-cursor-deal-targets-enterprise-coding-contracts-with-lower-costs-94b661b6741f?source=rss-6c104cc85316------2)
 - [JPMorgan Data Shows July Tech Trades Cut Hedge Fund Gains](https://medium.com/@vikramlingam/jpmorgan-data-shows-july-tech-trades-cut-hedge-fund-gains-223d9fcbcc97?source=rss-6c104cc85316------2)
 - [Research Shows Single AI Models Fall Short of Team Based Systems](https://medium.com/@vikramlingam/research-shows-single-ai-models-fall-short-of-team-based-systems-8f7d21f5d086?source=rss-6c104cc85316------2)
 - [Position Paper Puts Ideas at Center of Machine Learning Research](https://medium.com/@vikramlingam/position-paper-puts-ideas-at-center-of-machine-learning-research-e6883561dd1e?source=rss-6c104cc85316------2)
 - [Anthropomorphized AI Agents Reduce Trust in Promotional Content](https://medium.com/@vikramlingam/anthropomorphized-ai-agents-reduce-trust-in-promotional-content-47767c91fdaf?source=rss-6c104cc85316------2)
-- [TMLR Paper Reveals Message Passing GNNs Cannot Handle Triangular Factorizations](https://pub.towardsai.net/tmlr-paper-reveals-message-passing-gnns-cannot-handle-triangular-factorizations-980ab5f4ad07?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
