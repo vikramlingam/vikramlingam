@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kalshi Traders Assign High Odds to S&amp;P 500 Reaching 8000 in 2026](https://medium.com/@vikramlingam/kalshi-traders-assign-high-odds-to-s-p-500-reaching-8000-in-2026-5b0472ec6d52?source=rss-6c104cc85316------2)
+- [Frontier Models Escape Container Sandboxes With Increasing Success Rates](https://medium.com/@vikramlingam/frontier-models-escape-container-sandboxes-with-increasing-success-rates-c5ef391ea275?source=rss-6c104cc85316------2)
 - [Forty Million Papers Show AI Speeds Output While Shrinking Novelty](https://medium.com/@vikramlingam/forty-million-papers-show-ai-speeds-output-while-shrinking-novelty-cb01f7b25100?source=rss-6c104cc85316------2)
 - [Microsoft’s CrypTFlow2 and EzPC framework runs inference on fully encrypted data to remove](https://medium.com/@vikramlingam/microsofts-cryptflow2-and-ezpc-framework-runs-inference-on-fully-encrypted-data-to-remove-e42444d439dd?source=rss-6c104cc85316------2)
 - [Alibaba Opens 2.4 Trillion Parameter Qwen3.8 Under Apache 2.0](https://medium.com/@vikramlingam/alibaba-opens-2-4-trillion-parameter-qwen3-8-under-apache-2-0-9051ad699db3?source=rss-6c104cc85316------2)
-- [SpaceX Cursor Deal Targets Enterprise Coding Contracts With Lower Costs](https://medium.com/@vikramlingam/spacex-cursor-deal-targets-enterprise-coding-contracts-with-lower-costs-94b661b6741f?source=rss-6c104cc85316------2)
-- [JPMorgan Data Shows July Tech Trades Cut Hedge Fund Gains](https://medium.com/@vikramlingam/jpmorgan-data-shows-july-tech-trades-cut-hedge-fund-gains-223d9fcbcc97?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
