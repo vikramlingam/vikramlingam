@@ -30,7 +30,7 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Anthropic’s Claude Transcript Deal Creates a New Security Boundary](https://pub.towardsai.net/anthropics-claude-transcript-deal-creates-a-new-security-boundary-812fa33a2b70?source=rss-6c104cc85316------2)
-- [GPT Live Makes Conversation Control the Next Voice Technology Frontier](https://aiadvances.org/gpt-live-makes-conversation-control-the-next-voice-technology-frontier-b79b81b57e6b?source=rss-6c104cc85316------2)
+- [GPT Live Makes Conversation Control the Next Voice Technology Frontier](https://medium.com/@vikramlingam/gpt-live-makes-conversation-control-the-next-voice-technology-frontier-b79b81b57e6b?source=rss-6c104cc85316------2)
 - [The AutoML Bottleneck Is Training Data That Resembles Production](https://medium.com/@vikramlingam/the-automl-bottleneck-is-training-data-that-resembles-production-dbe94531fbe0?source=rss-6c104cc85316------2)
 - [AI Use in Papers Raises Citations While Contracting Scientific Exploration](https://medium.com/@vikramlingam/ai-use-in-papers-raises-citations-while-contracting-scientific-exploration-2a86c1b1b9ca?source=rss-6c104cc85316------2)
 - [Teaching Rules Challenge Python First Data Science Paths](https://medium.com/@vikramlingam/teaching-rules-challenge-python-first-data-science-paths-71005651b319?source=rss-6c104cc85316------2)
