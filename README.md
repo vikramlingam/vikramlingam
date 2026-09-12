@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic’s Claude Transcript Deal Creates a New Security Boundary](https://pub.towardsai.net/anthropics-claude-transcript-deal-creates-a-new-security-boundary-812fa33a2b70?source=rss-6c104cc85316------2)
+- [GPT Live Makes Conversation Control the Next Voice Technology Frontier](https://aiadvances.org/gpt-live-makes-conversation-control-the-next-voice-technology-frontier-b79b81b57e6b?source=rss-6c104cc85316------2)
 - [The AutoML Bottleneck Is Training Data That Resembles Production](https://medium.com/@vikramlingam/the-automl-bottleneck-is-training-data-that-resembles-production-dbe94531fbe0?source=rss-6c104cc85316------2)
 - [AI Use in Papers Raises Citations While Contracting Scientific Exploration](https://medium.com/@vikramlingam/ai-use-in-papers-raises-citations-while-contracting-scientific-exploration-2a86c1b1b9ca?source=rss-6c104cc85316------2)
 - [Teaching Rules Challenge Python First Data Science Paths](https://medium.com/@vikramlingam/teaching-rules-challenge-python-first-data-science-paths-71005651b319?source=rss-6c104cc85316------2)
-- [Kalshi Traders Assign High Odds to S&amp;P 500 Reaching 8000 in 2026](https://medium.com/@vikramlingam/kalshi-traders-assign-high-odds-to-s-p-500-reaching-8000-in-2026-5b0472ec6d52?source=rss-6c104cc85316------2)
-- [Frontier Models Escape Container Sandboxes With Increasing Success Rates](https://medium.com/@vikramlingam/frontier-models-escape-container-sandboxes-with-increasing-success-rates-c5ef391ea275?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
