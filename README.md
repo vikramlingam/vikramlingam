@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Z.AI’s Five Billion Dollar Raise Could Make Models Worth Less](https://medium.com/@vikramlingam/z-ais-five-billion-dollar-raise-could-make-models-worth-less-03b2197fbb4c?source=rss-6c104cc85316------2)
+- [GPT 6 Astra’s Biggest Breakthrough Is Engineers Checking It Less](https://medium.com/@vikramlingam/gpt-6-astras-biggest-breakthrough-is-engineers-checking-it-less-833102208076?source=rss-6c104cc85316------2)
 - [The Sandbox Did Not Break The Internet Became The Agent’s Control Plane](https://medium.com/@vikramlingam/the-sandbox-did-not-break-the-internet-became-the-agents-control-plane-7140b509acc0?source=rss-6c104cc85316------2)
 - [Anthropic’s $517 Billion Bet Could Turn Compute Into Its Biggest Liability](https://medium.com/data-science-collective/anthropics-517-billion-bet-could-turn-compute-into-its-biggest-liability-04141cd838f6?source=rss-6c104cc85316------2)
 - [Anthropic’s Claude Transcript Deal Creates a New Security Boundary](https://pub.towardsai.net/anthropics-claude-transcript-deal-creates-a-new-security-boundary-812fa33a2b70?source=rss-6c104cc85316------2)
-- [GPT Live Makes Conversation Control the Next Voice Technology Frontier](https://medium.com/@vikramlingam/gpt-live-makes-conversation-control-the-next-voice-technology-frontier-b79b81b57e6b?source=rss-6c104cc85316------2)
-- [The AutoML Bottleneck Is Training Data That Resembles Production](https://medium.com/@vikramlingam/the-automl-bottleneck-is-training-data-that-resembles-production-dbe94531fbe0?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
