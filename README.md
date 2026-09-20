@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gemini’s Three Company Hack Reveals the Real Boundary of Autonomous Security](https://medium.com/@vikramlingam/geminis-three-company-hack-reveals-the-real-boundary-of-autonomous-security-8ea7a9ee5238?source=rss-6c104cc85316------2)
+- [Claude Writes Most of Anthropic’s Code But Still Cannot Run Its Research](https://medium.com/@vikramlingam/claude-writes-most-of-anthropics-code-but-still-cannot-run-its-research-fb1d930d2a39?source=rss-6c104cc85316------2)
 - [Claude Is Helping Build Its Successor And That Changes How Progress Gets Measured](https://medium.com/@vikramlingam/claude-is-helping-build-its-successor-and-that-changes-how-progress-gets-measured-1e91f7360adf?source=rss-6c104cc85316------2)
 - [ChatGPT Ads Turn Intent Into the Internet’s Most Valuable New Inventory](https://medium.com/@vikramlingam/chatgpt-ads-turn-intent-into-the-internets-most-valuable-new-inventory-c4d11a0d7344?source=rss-6c104cc85316------2)
 - [OpenAI’s Six Incidents Expose the Missing Science of AI Intent](https://medium.com/@vikramlingam/openais-six-incidents-expose-the-missing-science-of-ai-intent-6d547d8d0359?source=rss-6c104cc85316------2)
-- [Jev’s 194x Speed Claim Exposes the Metric Problem Inside Enterprise AI](https://medium.com/@vikramlingam/jevs-194x-speed-claim-exposes-the-metric-problem-inside-enterprise-ai-87a37df1f7ec?source=rss-6c104cc85316------2)
-- [Z.AI’s Five Billion Dollar Raise Could Make Models Worth Less](https://medium.com/@vikramlingam/z-ais-five-billion-dollar-raise-could-make-models-worth-less-03b2197fbb4c?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
