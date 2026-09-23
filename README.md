@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Price War Is Really a Battle Over Control of Inference](https://medium.com/@vikramlingam/the-ai-price-war-is-really-a-battle-over-control-of-inference-92e89b985c01?source=rss-6c104cc85316------2)
+- [The Real AI Control Problem Is Already Hiding Inside Agent Networks](https://medium.com/@vikramlingam/the-real-ai-control-problem-is-already-hiding-inside-agent-networks-04915b0ff118?source=rss-6c104cc85316------2)
 - [Gemini’s Three Company Hack Reveals the Real Boundary of Autonomous Security](https://medium.com/@vikramlingam/geminis-three-company-hack-reveals-the-real-boundary-of-autonomous-security-8ea7a9ee5238?source=rss-6c104cc85316------2)
 - [Claude Writes Most of Anthropic’s Code But Still Cannot Run Its Research](https://medium.com/@vikramlingam/claude-writes-most-of-anthropics-code-but-still-cannot-run-its-research-fb1d930d2a39?source=rss-6c104cc85316------2)
 - [Claude Is Helping Build Its Successor And That Changes How Progress Gets Measured](https://medium.com/@vikramlingam/claude-is-helping-build-its-successor-and-that-changes-how-progress-gets-measured-1e91f7360adf?source=rss-6c104cc85316------2)
-- [ChatGPT Ads Turn Intent Into the Internet’s Most Valuable New Inventory](https://medium.com/@vikramlingam/chatgpt-ads-turn-intent-into-the-internets-most-valuable-new-inventory-c4d11a0d7344?source=rss-6c104cc85316------2)
-- [OpenAI’s Six Incidents Expose the Missing Science of AI Intent](https://medium.com/@vikramlingam/openais-six-incidents-expose-the-missing-science-of-ai-intent-6d547d8d0359?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
