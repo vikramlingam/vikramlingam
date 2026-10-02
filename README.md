@@ -29,9 +29,9 @@ I'm a **Data Scientist** with a passion for building custom AI solutions at the 
 
 ### My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When Safety Researchers Quit Labs Lose Their Last Internal Brake](https://medium.com/@vikramlingam/when-safety-researchers-quit-labs-lose-their-last-internal-brake-a32191cf5152?source=rss-6c104cc85316------2)
+- [OpenAI’s Safety Pause Reveals the Financial Cost of Moving Too Carefully](https://medium.com/@vikramlingam/openais-safety-pause-reveals-the-financial-cost-of-moving-too-carefully-e66be09a5443?source=rss-6c104cc85316------2)
 - [The Frontier Safety Pact Could Become Technology’s Most Powerful Cartel](https://medium.com/@vikramlingam/the-frontier-safety-pact-could-become-technologys-most-powerful-cartel-940e39cd3e7d?source=rss-6c104cc85316------2)
 - [Anthropic Is Trading Model Scarcity for a $965 Billion IPO Story](https://medium.com/@vikramlingam/anthropic-is-trading-model-scarcity-for-a-965-billion-ipo-story-95c0864d9619?source=rss-6c104cc85316------2)
 - [Anthropic’s 26 Percent Figure Reveals Who Really Controls Research](https://medium.com/@vikramlingam/anthropics-26-percent-figure-reveals-who-really-controls-research-f4896f8b96c6?source=rss-6c104cc85316------2)
-- [Google’s Orbital Data Center Dream May Turn Power Into a Swarm Problem](https://medium.com/@vikramlingam/googles-orbital-data-center-dream-may-turn-power-into-a-swarm-problem-caf006650b38?source=rss-6c104cc85316------2)
-- [The AI Price War Is Really a Battle Over Control of Inference](https://medium.com/@vikramlingam/the-ai-price-war-is-really-a-battle-over-control-of-inference-92e89b985c01?source=rss-6c104cc85316------2)
 <!-- BLOG-POST-LIST:END -->
