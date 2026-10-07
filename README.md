@@ -19,7 +19,7 @@ I build practical software at the intersection of machine learning, systems prog
 
 - **Languages:** Python, Swift, Rust, SQL, C++
 - **ML & Systems:** PyTorch, MLX, ONNX Runtime, Hugging Face Transformers, LoRA / QLoRA
-- **Data & Analytics:** Pandas, NumPy, Polars, Scikit-learn, CatBoost
+- **Data & Analytics:** Pandas, NumPy, Polars, Scikit-learn, CatBoost, XGBoost
 - **Tooling & Environments:** Git, macOS / Apple Silicon ML Toolchains, SQLite
 
 ---
