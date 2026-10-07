@@ -2,7 +2,7 @@
 
 > **Applied Machine Learning & Systems Builder** focused on local inference, efficient language models, and developer tooling.
 
-I build practical software at the intersection of machine learning, systems programming, and workflow automation. My focus is on making AI fast, cost-efficient, and practical to run—specializing in **fine-tuning small language models (SLMs)**, **local inference architectures**, and **high-throughput data tooling**.
+I build practical software at the intersection of machine learning, systems programming, and workflow automation. My focus is on making AI fast, cost-efficient, and practical to run, specializing in **fine-tuning small language models (SLMs)**, **local inference architectures**, and **high-throughput data tooling**.
 
 ---
 
