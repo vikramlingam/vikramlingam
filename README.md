@@ -27,6 +27,7 @@ I build practical software at the intersection of machine learning, systems prog
 ### 🏆 Hackathons & Benchmarks
 
 - **1st Place — Shinkansen Travel Experience Hackathon (Sept 2025):** Designed the winning predictive pipeline leveraging engineered tabular representations and CatBoost.
+- **5th Place - Distance Prediction Challenge (Dec 2025):** Developed an optimized Random Forest machine learning model for Machine Hack Challenge.
 - **Participant & Builder — Scrape-Verse Hackathon (Aug 2026):** Built automated documentation scrapers and codebase AST impact analysis tooling (Team Siloed).
 
 ---
