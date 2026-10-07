@@ -11,7 +11,7 @@ I build practical software at the intersection of machine learning, systems prog
 - **Small Language Models & Fine-Tuning:** Efficient adaptation of compact models (Phi, Qwen, LLaMA) using LoRA, QLoRA, and domain-specific instruction datasets for structured reasoning and code generation.
 - **Local-First & On-Device ML:** Deploying quantized architectures (ONNX Runtime, MLX, Apple Silicon) for real-time edge processing and low-latency local execution.
 - **Search & Information Retrieval:** Building deterministic, hybrid search systems utilizing SQLite FTS5, BM25, and dense embeddings without external runtime bloat.
-- **Data Engineering & Automation:** Designing resilient data ingestion pipelines, AST-aware code analysis, and high-performance tabular workflows with Polars and DuckDB.
+- **Data Engineering & Automation:** Designing resilient data ingestion pipelines, AST-aware code analysis, and high-performance tabular workflows.
 
 ---
 
