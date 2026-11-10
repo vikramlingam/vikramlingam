@@ -1,36 +1,75 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=620&lines=data+%E2%86%92+models+%E2%86%92+experiments;small+models%2C+real+hardware;build+it.+measure+it.+learn." alt="A short introduction" />Vikram Lingam
-Data Scientist · Machine Learning · Software
+ <div align="center">
 
-I work with data, build software, and experiment with machine learning models.
-Recently, I've been spending time with small language models, fine-tuning, and text and audio models.
+# Vikram Lingam
 
-LinkedIn · Medium · YouTube
-</div>┌─────────────────────────────────────────────────────────────────┐
-│  CURRENTLY IN THE LAB                                           │
-│                                                                 │
-│  [01]  Small language models     Fine-tuning, quantization      │
-│  [02]  Text models               Inference and evaluation       │
-│  [03]  Audio models              Trying models and workflows    │
-│  [04]  Data science              Features, experiments, models  │
-│  [05]  Software                  Python tools and applications  │
-└─────────────────────────────────────────────────────────────────┘
-What I work with
-Python SQL PyTorch Hugging Face Transformers MLX
-scikit-learn Pandas NumPy Flask React SQLite
-A few things I've worked on
-- Small model experiments: Fine-tuning and testing compact models for text-based tasks.
-- Text and audio: Exploring model capabilities, inference, and practical workflows.
-- Data science: Building predictive models and working through feature engineering and evaluation.
-- Developer tools: Python applications, automation, search, and document workflows.
-- Financial tools: Small applications for screening, valuation, and analysis.
-Selected work
-- 1st place · Shinkansen Travel Experience Hackathon, September 2025. Built a predictive pipeline using feature engineering and CatBoost.
-- 5th place · Distance Prediction Challenge, Machine Hack, December 2025. Built a Random Forest model.
-- Scrape-Verse Hackathon · August 2026. Worked with Team Siloed on documentation scraping and codebase analysis.
-Notes from elsewhere
-A few things I've written recently:
-- Strong growth in AI agents
-- Apple’s Message Database Crackdown Exposes the Real Risk of Desktop Agents
-- OpenAI’s Training Pause Exposes the Failure of Containment Testing
-<div align="center"><sub>Mostly experiments, occasional useful tools, and notes from figuring things out.</sub>
+### Data Scientist | Machine Learning | Software
+
+Exploring machine learning, fine-tuning small models, and building things with Python.
+
+[LinkedIn](https://www.linkedin.com/in/vikramlingam/) · [Medium](https://medium.com/@vikramlingam) · [YouTube](https://www.youtube.com/@vikramlingam)
+
+</div>
+
+---
+
+### A little about me
+
+I'm a data scientist interested in machine learning, language models, and software development.
+
+I enjoy experimenting with smaller models, fine-tuning them for different tasks, exploring text and audio models, and building applications around them.
+
+Most of my work involves Python, data, and figuring out how to make ideas work in practice.
+
+### Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql" />
+
+**Machine Learning & Data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=flask,react,git,github,vscode,sqlite" />
+
+</div>
+
+### What I'm Exploring
+
+- Small language models and fine-tuning
+- Text generation and language model evaluation
+- Audio models, speech, and voice workflows
+- Local inference and model quantization
+- RAG, search, and AI-powered applications
+- Data science and predictive modelling
+
+### Selected Work
+
+- **Stock Panels**: A stock screening and analysis application built with Python and Flask.
+- **Veda Bot**: An experimental chatbot using language models.
+- **Tax Research Tools**: Experiments with search and retrieval over Australian tax information.
+- **Financial Modelling Tools**: DCF valuation, SIP calculations, and analysis utilities.
+
+### Hackathons
+
+- 🥇 **1st Place**: Shinkansen Travel Experience Hackathon, September 2025.
+- **5th Place**: Distance Prediction Challenge, Machine Hack, December 2025.
+- **Participant**: Scrape-Verse Hackathon, August 2026, Team Siloed.
+
+### Writing
+
+- [Strong growth in AI agents](https://medium.com/@vikramlingam/strong-growth-in-ai-agents-929cf7b3eb8a)
+- [Apple's Message Database Crackdown Exposes the Real Risk of Desktop Agents](https://medium.com/@vikramlingam/apples-message-database-crackdown-exposes-the-real-risk-of-desktop-agents-46b6780766e7)
+- [OpenAI's Training Pause Exposes the Failure of Containment Testing](https://medium.com/@vikramlingam/openais-training-pause-exposes-the-failure-of-containment-testing-e337aed6ee20)
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=22D3EE&label=PROFILE+VIEWS" />
+
 </div>
