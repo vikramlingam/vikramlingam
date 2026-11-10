@@ -2,7 +2,7 @@
 
 # Vikram Lingam
 
-**Data Scientist · Machine Learning · Finance**
+**Data Scientist · Machine Learning · Software**
 
 [LinkedIn](https://www.linkedin.com/in/vikramlingam/) · [Medium](https://medium.com/@vikramlingam) · [YouTube](https://www.youtube.com/@vikramlingam)
 
@@ -35,21 +35,16 @@ status: training
 
 ## Stack
 
-| | |
-|---|---|
-| **Languages** | `Python` `JavaScript` `SQL` `HTML` `CSS` |
-| **ML & Data** | `PyTorch` `scikit-learn` `Pandas` `NumPy` `Hugging Face` |
-| **Tools** | `Flask` `React` `SQLite` `Git` `GitHub` `VS Code` |
+<div align="center">
 
-## Selected Projects
+<img src="https://skillicons.dev/icons?i=python,js,sql,html,css&theme=dark" alt="Python, JavaScript, SQL, HTML, CSS" />
 
-| Project | What it is |
-|---|---|
-| **Stock Panels** | Stock screening and analysis app. Python + Flask. |
-| **Veda Bot** | Experimental chatbot built on language models. |
-| **Financial Modelling Tools** | Small tools for DCF valuation, SIP calculations and financial analysis. |
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy&theme=dark" alt="PyTorch, scikit-learn, Pandas, NumPy" />
+<img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 
-<!-- Tip: link each project name to its repo, e.g. **[Stock Panels](https://github.com/vikramlingam/REPO-NAME)** -->
+<img src="https://skillicons.dev/icons?i=flask,react,sqlite,git,github,vscode&theme=dark" alt="Flask, React, SQLite, Git, GitHub, VS Code" />
+
+</div>
 
 ## Leaderboard
 
