@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Vikram Lingam — Data Scientist. Animated training loss curve." width="100%" />
+# Vikram Lingam
 
-<br/>
+**Data Scientist · Machine Learning · Software**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramlingam/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@vikramlingam)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@vikramlingam)
+[LinkedIn](https://www.linkedin.com/in/vikramlingam/) · [Medium](https://medium.com/@vikramlingam) · [YouTube](https://www.youtube.com/@vikramlingam)
 
 </div>
 
-<br/>
+```text
+ loss
+ 1.0 ┤█▇
+     │ ▀█▆
+ 0.6 ┤   ▀▆▅▅
+     │      ▀▄▄▃
+ 0.2 ┤         ▀▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁  converged ✓
+     └────────────────────────────────── epoch
+```
 
 ## `config.yaml`
 
@@ -29,19 +35,11 @@ status: training
 
 ## Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sql,flask,react,git,github,vscode,sqlite&theme=dark" alt="Python, JavaScript, HTML, CSS, SQL, Flask, React, Git, GitHub, VS Code, SQLite" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-
-</div>
+| | |
+|---|---|
+| **Languages** | `Python` `JavaScript` `SQL` `HTML` `CSS` |
+| **ML & Data** | `PyTorch` `scikit-learn` `Pandas` `NumPy` `Hugging Face` |
+| **Tools** | `Flask` `React` `SQLite` `Git` `GitHub` `VS Code` |
 
 ## Selected Projects
 
@@ -70,8 +68,6 @@ I write about AI agents, safety and where compute is heading, on [Medium](https:
 - [OpenAI’s Training Pause Exposes the Failure of Containment Testing](https://medium.com/@vikramlingam/openais-training-pause-exposes-the-failure-of-containment-testing-e337aed6ee20)
 - [The Intelligence Explosion May Begin Before Anyone Can Measure It](https://medium.com/@vikramlingam/the-intelligence-explosion-may-begin-before-anyone-can-measure-it-08c8b311770d)
 - [Google’s Four TPU Orbital Test Reveals Space Compute’s Real Constraint](https://medium.com/@vikramlingam/googles-four-tpu-orbital-test-reveals-space-compute-s-real-constraint-78b4b815d6dd)
-
-<br/>
 
 <div align="center">
   <sub><code>$ python train.py --epochs ∞</code></sub>
