@@ -2,7 +2,7 @@
 
 # Vikram Lingam
 
-**Data Scientist · Machine Learning · Software**
+**Data Scientist · Machine Learning · Finance**
 
 [LinkedIn](https://www.linkedin.com/in/vikramlingam/) · [Medium](https://medium.com/@vikramlingam) · [YouTube](https://www.youtube.com/@vikramlingam)
 
